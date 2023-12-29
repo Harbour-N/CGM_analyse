@@ -1,0 +1,1882 @@
+File Name: 0:\GARMIN\EVNTLOGS/00000015.TXT
+
+
+>>>>> EVL_CURR_LOGS <<<<<
+
+verNum:     8/13/2014 (00)
+ownerID:    00000002
+OwnerName:  HWM
+status:     01
+pri_thresh:  4
+archived:   00
+max_arch:   00
+num_recs:   80
+rec_size:   40
+next_evnt:  49
+timeDay:    2023/12/ 9  0:07:39 
+cycle_cnt:  39
+
+49: D3 10 00 00  359:09:26.007 HWM main (Loc:2023/10/ 2 13:36:14 ) (UTC:2023/10/ 2 12:36:14 ) F:0
+4A: D3 10 00 00  364:38:38.500 HWM main (Loc:2023/10/ 2 19:05:26 ) (UTC:2023/10/ 2 18:05:26 ) F:0
+4B: D3 10 00 00  364:41:35.168 HWM main (Loc:2023/10/ 2 19:08:23 ) (UTC:2023/10/ 2 18:08:23 ) F:0
+4C: D3 10 00 00  365:54:23.787 HWM main (Loc:2023/10/ 2 20:21:11 ) (UTC:2023/10/ 2 19:21:11 ) F:0
+4D: D3 10 00 00  378:07:59.545 HWM main (Loc:2023/10/ 3  8:34:47 ) (UTC:2023/10/ 3  7:34:47 ) F:0
+4E: D3 10 00 00  383:25:55.536 HWM main (Loc:2023/10/ 3 13:52:43 ) (UTC:2023/10/ 3 12:52:43 ) F:0
+4F: D3 10 00 00  432:50:37.482 HWM main (Loc:2023/10/ 5 15:17:25 ) (UTC:2023/10/ 5 14:17:25 ) F:0
+50: D3 10 00 00  453:21:27.554 HWM main (Loc:2023/10/ 6 11:48:15 ) (UTC:2023/10/ 6 10:48:15 ) F:0
+51: D3 10 00 00  471:49:18.926 HWM main (Loc:2023/10/ 7  6:16:07 ) (UTC:2023/10/ 7  5:16:07 ) F:0
+52: D3 10 00 00  471:51:40.571 HWM main (Loc:2023/10/ 7  6:18:28 ) (UTC:2023/10/ 7  5:18:28 ) F:0
+53: D3 10 00 00  471:55:39.615 HWM main (Loc:2023/10/ 7  6:22:27 ) (UTC:2023/10/ 7  5:22:27 ) F:0
+54: D3 10 00 00  471:56:39.920 HWM main (Loc:2023/10/ 7  6:23:28 ) (UTC:2023/10/ 7  5:23:28 ) F:0
+55: D3 10 00 00  471:57:42.276 HWM main (Loc:2023/10/ 7  6:24:30 ) (UTC:2023/10/ 7  5:24:30 ) F:0
+56: D3 10 00 00  471:58:38.092 HWM main (Loc:2023/10/ 7  6:25:26 ) (UTC:2023/10/ 7  5:25:26 ) F:0
+57: D3 10 00 00  471:59:50.434 HWM main (Loc:2023/10/ 7  6:26:38 ) (UTC:2023/10/ 7  5:26:38 ) F:0
+58: D3 10 00 00  488:14:58.690 HWM main (Loc:2023/10/ 7 22:41:46 ) (UTC:2023/10/ 7 21:41:46 ) F:0
+59: D3 10 00 00  488:19:20.816 HWM main (Loc:2023/10/ 7 22:46:09 ) (UTC:2023/10/ 7 21:46:09 ) F:0
+5A: D3 10 00 00  505:23:16.409 HWM main (Loc:2023/10/ 8 15:50:04 ) (UTC:2023/10/ 8 14:50:04 ) F:0
+5B: D3 10 00 00  551:07:28.290 HWM main (Loc:2023/10/10 13:34:16 ) (UTC:2023/10/10 12:34:16 ) F:0
+5C: D3 10 00 00  571:41:00.687 HWM main (Loc:2023/10/11 10:07:48 ) (UTC:2023/10/11  9:07:48 ) F:0
+5D: D3 10 00 00  643:57:43.153 HWM main (Loc:2023/10/14 10:24:31 ) (UTC:2023/10/14  9:24:31 ) F:0
+5E: D3 10 00 00  643:58:35.756 HWM main (Loc:2023/10/14 10:25:23 ) (UTC:2023/10/14  9:25:23 ) F:0
+5F: D3 10 00 00  657:08:16.066 HWM main (Loc:2023/10/14 23:35:04 ) (UTC:2023/10/14 22:35:04 ) F:0
+60: D3 10 00 00  657:17:58.379 HWM main (Loc:2023/10/14 23:44:46 ) (UTC:2023/10/14 22:44:46 ) F:0
+61: D3 10 00 00  674:29:07.519 HWM main (Loc:2023/10/15 16:55:55 ) (UTC:2023/10/15 15:55:55 ) F:0
+62: D3 10 00 00  689:23:06.053 HWM main (Loc:2023/10/16  7:49:54 ) (UTC:2023/10/16  6:49:54 ) F:0
+63: D3 10 00 00  696:48:29.009 HWM main (Loc:2023/10/16 15:15:17 ) (UTC:2023/10/16 14:15:17 ) F:0
+64: D3 10 00 00  701:03:30.441 HWM main (Loc:2023/10/16 19:30:18 ) (UTC:2023/10/16 18:30:18 ) F:0
+65: D3 10 00 00  717:33:26.828 HWM main (Loc:2023/10/17 12:00:15 ) (UTC:2023/10/17 11:00:15 ) F:0
+66: D3 10 00 00  721:38:09.480 HWM main (Loc:2023/10/17 16:04:57 ) (UTC:2023/10/17 15:04:57 ) F:0
+67: D3 10 00 00  726:15:46.222 HWM main (Loc:2023/10/17 20:42:34 ) (UTC:2023/10/17 19:42:34 ) F:0
+68: D3 10 00 00  739:27:29.986 HWM main (Loc:2023/10/18  9:54:18 ) (UTC:2023/10/18  8:54:18 ) F:0
+69: D3 10 00 00  742:45:46.110 HWM main (Loc:2023/10/18 13:12:34 ) (UTC:2023/10/18 12:12:34 ) F:0
+6A: D3 10 00 00  749:07:19.058 HWM main (Loc:2023/10/18 19:34:07 ) (UTC:2023/10/18 18:34:07 ) F:0
+6B: D3 10 00 00  768:11:53.301 HWM main (Loc:2023/10/19 14:38:41 ) (UTC:2023/10/19 13:38:41 ) F:0
+6C: D3 10 00 00  771:37:02.041 HWM main (Loc:2023/10/19 18:03:50 ) (UTC:2023/10/19 17:03:50 ) F:0
+6D: D3 10 00 00  773:04:39.898 HWM main (Loc:2023/10/19 19:31:28 ) (UTC:2023/10/19 18:31:28 ) F:0
+6E: D3 10 00 00  789:59:18.495 HWM main (Loc:2023/10/20 12:26:06 ) (UTC:2023/10/20 11:26:06 ) F:0
+6F: D3 10 00 00  801:33:05.457 HWM main (Loc:2023/10/20 23:59:53 ) (UTC:2023/10/20 22:59:53 ) F:0
+70: D3 10 00 00  824:59:26.295 HWM main (Loc:2023/10/21 23:26:14 ) (UTC:2023/10/21 22:26:14 ) F:0
+71: D3 10 00 00  856:35:28.276 HWM main (Loc:2023/10/23  7:02:16 ) (UTC:2023/10/23  6:02:16 ) F:0
+72: D3 10 00 00  863:43:36.560 HWM main (Loc:2023/10/23 14:10:24 ) (UTC:2023/10/23 13:10:24 ) F:0
+73: D3 10 00 00  869:34:31.553 HWM main (Loc:2023/10/23 20:01:19 ) (UTC:2023/10/23 19:01:19 ) F:0
+74: D3 10 00 00  883:40:16.967 HWM main (Loc:2023/10/24 10:07:05 ) (UTC:2023/10/24  9:07:05 ) F:0
+75: D3 10 00 00  910:12:34.545 HWM main (Loc:2023/10/25 12:39:22 ) (UTC:2023/10/25 11:39:22 ) F:0
+76: D3 10 00 00  930:05:57.776 HWM main (Loc:2023/10/26  8:32:45 ) (UTC:2023/10/26  7:32:45 ) F:0
+77: D3 10 00 00  956:58:21.150 HWM main (Loc:2023/10/27 11:25:09 ) (UTC:2023/10/27 10:25:09 ) F:0
+78: D3 10 00 00  957:59:55.956 HWM main (Loc:2023/10/27 12:26:44 ) (UTC:2023/10/27 11:26:44 ) F:0
+79: D3 10 00 00  990:11:13.611 HWM main (Loc:2023/10/28 20:38:01 ) (UTC:2023/10/28 19:38:01 ) F:0
+7A: D3 10 00 00  997:14:05.627 HWM main (Loc:2023/10/28 22:40:53 ) (UTC:2023/10/29  2:40:53 ) F:0
+7B: FE 01 02 00 1085:01:24.836 HWM main 2023/11/ 1 18:28:10 V:0
+
+7C: FF 00 00 00    0:00:00.851 HWM main 2023/11/ 4 14:16:08 C:38
+7D: D3 10 00 00    0:00:20.496 HWM main (Loc:2023/11/ 4 10:16:27 ) (UTC:2023/11/ 4 14:16:27 ) F:0
+7E: D3 10 00 00    7:48:51.504 HWM main (Loc:2023/11/ 4 22:04:58 ) (UTC:2023/11/ 4 22:04:58 ) F:0
+7F: D3 10 00 00    8:34:21.520 HWM main (Loc:2023/11/ 4 18:50:28 ) (UTC:2023/11/ 4 22:50:28 ) F:0
+00: D3 10 00 00   21:15:09.276 HWM main (Loc:2023/11/ 5  6:31:16 ) (UTC:2023/11/ 5 11:31:16 ) F:0
+01: FE 01 02 00   48:25:33.773 HWM main 2023/11/ 6 14:41:40 V:0
+
+02: FF 00 00 00    0:00:00.766 HWM main 2023/11/ 6 17:50:41 C:39
+03: D3 10 00 00    0:00:19.887 HWM main (Loc:2023/11/ 6 17:51:01 ) (UTC:2023/11/ 6 17:51:01 ) F:0
+04: D3 10 00 00    2:00:02.174 HWM main (Loc:2023/11/ 6 19:50:43 ) (UTC:2023/11/ 6 19:50:43 ) F:0
+05: D3 10 00 00   41:35:32.368 HWM main (Loc:2023/11/ 8 11:26:13 ) (UTC:2023/11/ 8 11:26:13 ) F:0
+06: D3 10 00 00   41:37:55.740 HWM main (Loc:2023/11/ 8 11:28:36 ) (UTC:2023/11/ 8 11:28:36 ) F:0
+07: D3 10 00 00   41:40:31.984 HWM main (Loc:2023/11/ 8 11:31:13 ) (UTC:2023/11/ 8 11:31:13 ) F:0
+08: D3 10 00 00   41:42:01.147 HWM main (Loc:2023/11/ 8 11:32:42 ) (UTC:2023/11/ 8 11:32:42 ) F:0
+09: D3 10 00 00   49:23:42.504 HWM main (Loc:2023/11/ 8 19:14:23 ) (UTC:2023/11/ 8 19:14:23 ) F:0
+0A: D3 10 00 00   62:19:45.595 HWM main (Loc:2023/11/ 9  8:10:26 ) (UTC:2023/11/ 9  8:10:26 ) F:0
+0B: D3 10 00 00  129:11:13.011 HWM main (Loc:2023/11/12  3:01:54 ) (UTC:2023/11/12  3:01:54 ) F:0
+0C: D3 10 00 00  134:25:39.386 HWM main (Loc:2023/11/12  8:16:20 ) (UTC:2023/11/12  8:16:20 ) F:0
+0D: D3 10 00 00  136:25:55.798 HWM main (Loc:2023/11/12 10:16:36 ) (UTC:2023/11/12 10:16:36 ) F:0
+0E: D3 10 00 00  138:00:46.418 HWM main (Loc:2023/11/12 11:51:27 ) (UTC:2023/11/12 11:51:27 ) F:0
+0F: D3 10 00 00  144:43:57.599 HWM main (Loc:2023/11/12 18:34:38 ) (UTC:2023/11/12 18:34:38 ) F:0
+10: D3 10 00 00  164:17:06.354 HWM main (Loc:2023/11/13 14:07:47 ) (UTC:2023/11/13 14:07:47 ) F:0
+11: D3 10 00 00  165:17:33.194 HWM main (Loc:2023/11/13 15:08:14 ) (UTC:2023/11/13 15:08:14 ) F:0
+12: D3 10 00 00  166:03:08.282 HWM main (Loc:2023/11/13 15:53:49 ) (UTC:2023/11/13 15:53:49 ) F:0
+13: D3 10 00 00  166:42:55.933 HWM main (Loc:2023/11/13 16:33:37 ) (UTC:2023/11/13 16:33:37 ) F:0
+14: D3 10 00 00  197:34:25.049 HWM main (Loc:2023/11/14 23:25:06 ) (UTC:2023/11/14 23:25:06 ) F:0
+15: D3 10 00 00  198:18:07.622 HWM main (Loc:2023/11/15  0:08:48 ) (UTC:2023/11/15  0:08:48 ) F:0
+16: D3 10 00 00  215:09:52.697 HWM main (Loc:2023/11/15 17:00:33 ) (UTC:2023/11/15 17:00:33 ) F:0
+17: D3 10 00 00  233:31:11.186 HWM main (Loc:2023/11/16 11:21:52 ) (UTC:2023/11/16 11:21:52 ) F:0
+18: D3 10 00 00  257:32:11.338 HWM main (Loc:2023/11/17 11:22:52 ) (UTC:2023/11/17 11:22:52 ) F:0
+19: D3 10 00 00  257:33:08.868 HWM main (Loc:2023/11/17 11:23:50 ) (UTC:2023/11/17 11:23:50 ) F:0
+1A: D3 10 00 00  259:15:48.843 HWM main (Loc:2023/11/17 13:06:30 ) (UTC:2023/11/17 13:06:30 ) F:0
+1B: D3 10 00 00  288:14:28.609 HWM main (Loc:2023/11/18 18:05:09 ) (UTC:2023/11/18 18:05:09 ) F:0
+1C: D3 10 00 00  303:43:16.519 HWM main (Loc:2023/11/19  9:33:57 ) (UTC:2023/11/19  9:33:57 ) F:0
+1D: D3 10 00 00  327:25:47.340 HWM main (Loc:2023/11/20  9:16:28 ) (UTC:2023/11/20  9:16:28 ) F:0
+1E: D3 10 00 00  334:19:37.027 HWM main (Loc:2023/11/20 16:10:18 ) (UTC:2023/11/20 16:10:18 ) F:0
+1F: D3 10 00 00  361:37:43.943 HWM main (Loc:2023/11/21 19:28:25 ) (UTC:2023/11/21 19:28:25 ) F:0
+20: D3 10 00 00  362:23:28.204 HWM main (Loc:2023/11/21 20:14:09 ) (UTC:2023/11/21 20:14:09 ) F:0
+21: D3 10 00 00  423:33:38.862 HWM main (Loc:2023/11/24  9:24:20 ) (UTC:2023/11/24  9:24:20 ) F:0
+22: D3 10 00 00  435:26:41.887 HWM main (Loc:2023/11/24 21:17:23 ) (UTC:2023/11/24 21:17:23 ) F:0
+23: D3 10 00 00  435:28:22.771 HWM main (Loc:2023/11/24 21:19:03 ) (UTC:2023/11/24 21:19:03 ) F:0
+24: D3 10 00 00  435:29:22.001 HWM main (Loc:2023/11/24 21:20:03 ) (UTC:2023/11/24 21:20:03 ) F:0
+25: D3 10 00 00  435:29:42.573 HWM main (Loc:2023/11/24 21:20:23 ) (UTC:2023/11/24 21:20:23 ) F:0
+26: D3 10 00 00  435:32:11.990 HWM main (Loc:2023/11/24 21:22:53 ) (UTC:2023/11/24 21:22:53 ) F:0
+27: D3 10 00 00  435:33:59.922 HWM main (Loc:2023/11/24 21:24:41 ) (UTC:2023/11/24 21:24:41 ) F:0
+28: D3 10 00 00  435:37:19.697 HWM main (Loc:2023/11/24 21:28:00 ) (UTC:2023/11/24 21:28:00 ) F:0
+29: D3 10 00 00  450:01:00.708 HWM main (Loc:2023/11/25 11:51:41 ) (UTC:2023/11/25 11:51:41 ) F:0
+2A: D3 10 00 00  450:01:47.265 HWM main (Loc:2023/11/25 11:52:28 ) (UTC:2023/11/25 11:52:28 ) F:0
+2B: D3 10 00 00  450:01:59.988 HWM main (Loc:2023/11/25 11:52:41 ) (UTC:2023/11/25 11:52:41 ) F:0
+2C: D3 10 00 00  450:04:12.342 HWM main (Loc:2023/11/25 11:54:53 ) (UTC:2023/11/25 11:54:53 ) F:0
+2D: D3 10 00 00  450:06:19.631 HWM main (Loc:2023/11/25 11:57:00 ) (UTC:2023/11/25 11:57:00 ) F:0
+2E: D3 10 00 00  450:06:49.949 HWM main (Loc:2023/11/25 11:57:31 ) (UTC:2023/11/25 11:57:31 ) F:0
+2F: D3 10 00 00  450:07:46.596 HWM main (Loc:2023/11/25 11:58:27 ) (UTC:2023/11/25 11:58:27 ) F:0
+30: D3 10 00 00  450:09:15.760 HWM main (Loc:2023/11/25 11:59:56 ) (UTC:2023/11/25 11:59:56 ) F:0
+31: D3 10 00 00  450:09:37.355 HWM main (Loc:2023/11/25 12:00:18 ) (UTC:2023/11/25 12:00:18 ) F:0
+32: D3 10 00 00  501:13:23.041 HWM main (Loc:2023/11/27 15:04:04 ) (UTC:2023/11/27 15:04:04 ) F:0
+33: D3 10 00 00  513:20:45.639 HWM main (Loc:2023/11/28  3:11:26 ) (UTC:2023/11/28  3:11:26 ) F:0
+34: D3 10 00 00  542:13:15.829 HWM main (Loc:2023/11/29  8:03:57 ) (UTC:2023/11/29  8:03:57 ) F:0
+35: D3 10 00 00  542:13:32.356 HWM main (Loc:2023/11/29  8:04:13 ) (UTC:2023/11/29  8:04:13 ) F:0
+36: D3 10 00 00  543:11:19.311 HWM main (Loc:2023/11/29  9:02:00 ) (UTC:2023/11/29  9:02:00 ) F:0
+37: D3 10 00 00  548:07:52.739 HWM main (Loc:2023/11/29 13:58:33 ) (UTC:2023/11/29 13:58:33 ) F:0
+38: D3 10 00 00  549:07:38.798 HWM main (Loc:2023/11/29 14:58:19 ) (UTC:2023/11/29 14:58:19 ) F:0
+39: D3 10 00 00  597:15:06.513 HWM main (Loc:2023/12/ 1 15:05:47 ) (UTC:2023/12/ 1 15:05:47 ) F:0
+3A: D3 10 00 00  622:27:57.452 HWM main (Loc:2023/12/ 2 16:18:38 ) (UTC:2023/12/ 2 16:18:38 ) F:0
+3B: D3 10 00 00  624:30:55.907 HWM main (Loc:2023/12/ 2 18:21:37 ) (UTC:2023/12/ 2 18:21:37 ) F:0
+3C: D3 10 00 00  624:49:28.632 HWM main (Loc:2023/12/ 2 18:40:09 ) (UTC:2023/12/ 2 18:40:09 ) F:0
+3D: D3 10 00 00  644:27:33.603 HWM main (Loc:2023/12/ 3 14:18:14 ) (UTC:2023/12/ 3 14:18:14 ) F:0
+3E: D3 10 00 00  650:34:09.236 HWM main (Loc:2023/12/ 3 20:24:50 ) (UTC:2023/12/ 3 20:24:50 ) F:0
+3F: D3 10 00 00  662:10:25.284 HWM main (Loc:2023/12/ 4  8:01:06 ) (UTC:2023/12/ 4  8:01:06 ) F:0
+40: D3 10 00 00  687:19:39.365 HWM main (Loc:2023/12/ 5  9:10:20 ) (UTC:2023/12/ 5  9:10:20 ) F:0
+41: D3 10 00 00  692:42:30.320 HWM main (Loc:2023/12/ 5 14:33:11 ) (UTC:2023/12/ 5 14:33:11 ) F:0
+42: D3 10 00 00  715:36:12.267 HWM main (Loc:2023/12/ 6 13:26:53 ) (UTC:2023/12/ 6 13:26:53 ) F:0
+43: D3 10 00 00  716:27:21.728 HWM main (Loc:2023/12/ 6 14:18:02 ) (UTC:2023/12/ 6 14:18:02 ) F:0
+44: D3 10 00 00  734:32:20.841 HWM main (Loc:2023/12/ 7  8:23:02 ) (UTC:2023/12/ 7  8:23:02 ) F:0
+45: D3 10 00 00  747:10:00.056 HWM main (Loc:2023/12/ 7 21:00:41 ) (UTC:2023/12/ 7 21:00:41 ) F:0
+46: D3 10 00 00  748:31:33.685 HWM main (Loc:2023/12/ 7 22:22:14 ) (UTC:2023/12/ 7 22:22:14 ) F:0
+47: D3 10 00 00  748:54:15.622 HWM main (Loc:2023/12/ 7 22:44:56 ) (UTC:2023/12/ 7 22:44:56 ) F:0
+48: D3 10 00 00  774:16:57.900 HWM main (Loc:2023/12/ 9  0:07:39 ) (UTC:2023/12/ 9  0:07:39 ) F:0
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     03
+pri_thresh:  2
+archived:   10
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  03
+timeDay:    2023/12/ 9  0:30:14 
+cycle_cnt:  39
+
+03: D9 48 00 00  774:39:22.573 CDP main 506F696E7443616368652F3252547265 PointCache/2RTre
+04: D9 48 00 00  774:39:22.586 CDP main 506F696E7443616368652F3352496E64 PointCache/3RInd
+05: D9 48 00 00  774:39:22.599 CDP main 506F696E7443616368652F344342696B PointCache/4CBik
+06: D9 48 00 00  774:39:22.612 CDP main 506F696E7443616368652F354342696B PointCache/5CBik
+07: D9 48 00 00  774:39:22.625 CDP main 506F696E7443616368652F36434D5442 PointCache/6CMTB
+08: D9 48 00 00  774:39:22.638 CDP main 506F696E7443616368652F37534F7065 PointCache/7SOpe
+09: D9 48 00 00  774:39:22.652 CDP main 506F696E7443616368652F3853506F6F PointCache/8SPoo
+0A: D9 48 00 00  774:39:22.666 CDP main 506F696E7443616368652F3948696B65 PointCache/9Hike
+0B: D9 48 00 00  774:39:22.679 CDP main 506F696E7443616368652F3130536B69 PointCache/10Ski
+0C: D9 48 00 00  774:39:22.903 CDP main 506F696E7443616368652F3131536E6F PointCache/11Sno
+0D: D9 48 00 00  774:39:22.916 CDP main 506F696E7443616368652F313258435F PointCache/12XC_
+0E: D9 48 00 00  774:39:22.929 CDP main 506F696E7443616368652F3133436C69 PointCache/13Cli
+0F: D9 48 00 00  774:39:22.943 CDP main 506F696E7443616368652F3134575761 PointCache/14WWa
+10: D9 48 00 00  774:39:22.956 CDP main 506F696E7443616368652F3135535550 PointCache/15SUP
+11: D9 48 00 00  774:39:22.969 CDP main 506F696E7443616368652F31364B6179 PointCache/16Kay
+12: D9 48 00 00  774:39:22.983 CDP main 506F696E7443616368652F3137526F77 PointCache/17Row
+13: D9 48 00 00  774:39:22.996 CDP main 506F696E7443616368652F3138526F77 PointCache/18Row
+14: D9 48 00 00  774:39:23.009 CDP main 506F696E7443616368652F3139547253 PointCache/19TrS
+15: D9 48 00 00  774:39:23.026 CDP main 506F696E7443616368652F3230547243 PointCache/20TrC
+16: D9 48 00 00  774:39:23.039 CDP main 506F696E7443616368652F3231547259 PointCache/21TrY
+17: D9 48 00 00  774:39:23.053 CDP main 506F696E7443616368652F3232466C6F PointCache/22Flo
+18: D9 48 00 00  774:39:23.067 CDP main 506F696E7443616368652F3233464545 PointCache/23FEE
+19: D9 48 00 00  774:39:23.083 CDP main 506F696E7443616368652F3234464553 PointCache/24FES
+1A: D9 48 00 00  774:39:23.096 CDP main 506F696E7443616368652F32354A756D PointCache/25Jum
+1B: D9 48 00 00  774:39:23.110 CDP main 506F696E7443616368652F3236546163 PointCache/26Tac
+1C: D9 48 00 00  774:39:23.128 CDP main 506F696E7443616368652F3237426F61 PointCache/27Boa
+1D: D9 48 00 00  774:39:23.146 CDP main 506F696E7443616368652F3238474E61 PointCache/28GNa
+1E: D9 48 00 00  774:39:23.160 CDP main 506F696E7443616368652F3239475472 PointCache/29GTr
+1F: D9 48 00 00  774:39:23.545 CDP main 506F696E7443616368652F3330474F74 PointCache/30GOt
+00: D9 48 00 00  774:39:23.558 CDP main 506F696E7443616368652F3331476F6C PointCache/31Gol
+01: D9 48 00 00  774:39:23.572 CDP main 506F696E7443616368652F3339475371 PointCache/39GSq
+02: D9 48 00 00  774:39:33.338 CDP main 506F696E7443616368652F4465766963 PointCache/Devic
+
+verNum:     8/13/2014 (00)
+ownerID:    00000009
+OwnerName:  CSM
+status:     11
+pri_thresh:  2
+archived:   00
+max_arch:   00
+num_recs:   00
+rec_size:   18
+next_evnt:  00
+timeDay:    2023/11/ 6 17:50:42 
+cycle_cnt:  39
+
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000A
+OwnerName:  NET
+status:     11
+pri_thresh:  2
+archived:   00
+max_arch:   00
+num_recs:   00
+rec_size:   18
+next_evnt:  00
+timeDay:    2023/11/ 6 17:50:42 
+cycle_cnt:  39
+
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000B
+OwnerName:  FIT WIFI
+status:     11
+pri_thresh:  2
+archived:   00
+max_arch:   00
+num_recs:   96
+rec_size:   20
+next_evnt:  57
+timeDay:    2023/12/ 9  0:30:01 
+cycle_cnt:  39
+
+57: D0 16 27 00  426:12:00.614 HWM main  Fitness Wi-Fi Status: 0x3
+58: D0 16 27 00  430:12:16.935 HWM main  Fitness Wi-Fi Status: 0x3
+59: D0 16 27 00  430:12:17.797 HWM main  Fitness Wi-Fi Status: 0x3
+5A: D0 16 27 00  434:13:18.673 HWM main  Fitness Wi-Fi Status: 0x3
+5B: D0 16 27 00  434:13:25.199 HWM main  Fitness Wi-Fi Status: 0x3
+5C: D0 16 27 00  435:26:26.795 HWM main  Fitness Wi-Fi Status: 0x3
+5D: D0 16 27 00  435:27:34.170 HWM main  Fitness Wi-Fi Status: 0x3
+5E: D0 16 27 00  435:29:10.675 HWM main  Fitness Wi-Fi Status: 0x3
+5F: D0 16 27 00  435:29:37.244 HWM main  Fitness Wi-Fi Status: 0x3
+60: D0 16 27 00  435:31:54.635 HWM main  Fitness Wi-Fi Status: 0x3
+61: D0 16 27 00  435:33:32.834 HWM main  Fitness Wi-Fi Status: 0x3
+62: D0 16 27 00  435:36:58.191 HWM main  Fitness Wi-Fi Status: 0x3
+63: D0 16 27 00  438:13:47.919 HWM main  Fitness Wi-Fi Status: 0x3
+64: D0 16 27 00  438:13:48.680 HWM main  Fitness Wi-Fi Status: 0x3
+65: D0 16 27 00  450:00:52.665 HWM main  Fitness Wi-Fi Status: 0x3
+66: D0 16 27 00  450:01:38.658 HWM main  Fitness Wi-Fi Status: 0x3
+67: D0 16 27 00  450:04:03.056 HWM main  Fitness Wi-Fi Status: 0x3
+68: D0 16 27 00  450:05:57.599 HWM main  Fitness Wi-Fi Status: 0x3
+69: D0 16 27 00  450:07:28.854 HWM main  Fitness Wi-Fi Status: 0x3
+6A: D0 16 27 00  450:08:59.859 HWM main  Fitness Wi-Fi Status: 0x3
+6B: D0 16 27 00  454:15:38.902 HWM main  Fitness Wi-Fi Status: 0x3
+6C: D0 16 27 00  454:15:40.327 HWM main  Fitness Wi-Fi Status: 0x3
+6D: D0 16 27 00  458:17:09.690 HWM main  Fitness Wi-Fi Status: 0x3
+6E: D0 16 27 00  462:16:06.370 HWM main  Fitness Wi-Fi Status: 0x3
+6F: D0 16 27 00  462:16:07.023 HWM main  Fitness Wi-Fi Status: 0x3
+70: D0 16 27 00  498:17:10.975 HWM main  Fitness Wi-Fi Status: 0x3
+71: D0 16 27 00  498:17:11.699 HWM main  Fitness Wi-Fi Status: 0x3
+72: D0 16 27 00  501:11:30.826 HWM main  Fitness Wi-Fi Status: 0x3
+73: D0 16 27 00  506:17:44.023 HWM main  Fitness Wi-Fi Status: 0x3
+74: D0 16 27 00  506:17:44.773 HWM main  Fitness Wi-Fi Status: 0x3
+75: D0 16 27 00  510:18:19.204 HWM main  Fitness Wi-Fi Status: 0x3
+76: D0 16 27 00  510:18:20.415 HWM main  Fitness Wi-Fi Status: 0x3
+77: D0 16 27 00  513:20:27.757 HWM main  Fitness Wi-Fi Status: 0x3
+78: D0 16 27 00  519:54:13.606 HWM misc  Fitness Wi-Fi Status: 0x3
+79: D0 16 27 00  519:56:14.440 HWM main  Fitness Wi-Fi Status: 0x3
+7A: D0 16 27 00  519:56:15.391 HWM main  Fitness Wi-Fi Status: 0x3
+7B: D0 16 27 00  523:57:17.451 HWM main  Fitness Wi-Fi Status: 0x3
+7C: D0 16 27 00  523:57:19.052 HWM main  Fitness Wi-Fi Status: 0x3
+7D: D0 16 27 00  527:57:42.493 HWM main  Fitness Wi-Fi Status: 0x3
+7E: D0 16 27 00  527:57:43.543 HWM main  Fitness Wi-Fi Status: 0x3
+7F: D0 16 27 00  535:57:44.500 HWM main  Fitness Wi-Fi Status: 0x3
+80: D0 16 27 00  539:58:21.753 HWM main  Fitness Wi-Fi Status: 0x3
+81: D0 16 27 00  539:58:22.503 HWM main  Fitness Wi-Fi Status: 0x3
+82: D0 16 27 00  542:11:56.166 HWM main  Fitness Wi-Fi Status: 0x3
+83: D0 16 27 00  547:58:48.472 HWM main  Fitness Wi-Fi Status: 0x3
+84: D0 16 27 00  547:58:49.072 HWM main  Fitness Wi-Fi Status: 0x3
+85: D0 16 27 00  548:04:31.518 HWM main  Fitness Wi-Fi Status: 0x3
+86: D0 16 27 00  548:04:32.080 HWM main  Fitness Wi-Fi Status: 0x3
+87: D0 16 27 00  548:07:01.266 HWM main  Fitness Wi-Fi Status: 0x3
+88: D0 16 27 00  548:07:02.047 HWM main  Fitness Wi-Fi Status: 0x3
+89: D0 16 27 00  548:07:28.533 HWM main  Fitness Wi-Fi Status: 0x3
+8A: D0 16 27 00  548:07:30.533 HWM main  Fitness Wi-Fi Status: 0x3
+8B: D0 16 27 00  548:07:49.134 HWM main  Fitness Wi-Fi Status: 0x3
+8C: D0 16 27 00  549:03:58.988 HWM main  Fitness Wi-Fi Status: 0x3
+8D: D0 16 27 00  552:07:46.650 HWM main  Fitness Wi-Fi Status: 0x3
+8E: D0 16 27 00  552:07:47.400 HWM main  Fitness Wi-Fi Status: 0x3
+8F: D0 16 27 00  560:07:47.933 HWM main  Fitness Wi-Fi Status: 0x3
+90: D0 16 27 00  564:07:48.931 HWM main  Fitness Wi-Fi Status: 0x3
+91: D0 16 27 00  568:08:27.059 HWM main  Fitness Wi-Fi Status: 0x3
+92: D0 16 27 00  568:08:27.846 HWM main  Fitness Wi-Fi Status: 0x3
+93: D0 16 27 00  572:08:51.562 HWM main  Fitness Wi-Fi Status: 0x3
+94: D0 16 27 00  572:08:52.500 HWM main  Fitness Wi-Fi Status: 0x3
+95: D0 16 27 00  576:09:14.851 HWM main  Fitness Wi-Fi Status: 0x3
+00: D0 16 27 00  576:09:15.488 HWM main  Fitness Wi-Fi Status: 0x3
+01: D0 16 27 00  578:04:45.123 HWM misc  Fitness Wi-Fi Status: 0x3
+02: D0 16 27 00  578:06:38.549 HWM main  Fitness Wi-Fi Status: 0x3
+03: D0 16 27 00  578:06:39.873 HWM main  Fitness Wi-Fi Status: 0x3
+04: D0 16 27 00  586:06:40.517 HWM main  Fitness Wi-Fi Status: 0x3
+05: D0 16 27 00  590:07:12.812 HWM main  Fitness Wi-Fi Status: 0x3
+06: D0 16 27 00  590:07:13.412 HWM main  Fitness Wi-Fi Status: 0x3
+07: D0 16 27 00  594:07:49.131 HWM main  Fitness Wi-Fi Status: 0x3
+08: D0 16 27 00  594:07:49.731 HWM main  Fitness Wi-Fi Status: 0x3
+09: D0 16 27 00  597:14:55.901 HWM main  Fitness Wi-Fi Status: 0x3
+0A: D0 16 27 00  598:07:59.624 HWM main  Fitness Wi-Fi Status: 0x3
+0B: D0 16 27 00  598:08:00.224 HWM main  Fitness Wi-Fi Status: 0x3
+0C: D0 16 27 00  603:19:06.858 HWM misc  Fitness Wi-Fi Status: 0x3
+0D: D0 16 27 00  603:20:56.206 HWM main  Fitness Wi-Fi Status: 0x3
+0E: D0 16 27 00  603:20:56.932 HWM main  Fitness Wi-Fi Status: 0x3
+0F: D0 16 27 00  607:21:18.829 HWM main  Fitness Wi-Fi Status: 0x3
+10: D0 16 27 00  607:21:19.518 HWM main  Fitness Wi-Fi Status: 0x3
+11: D0 16 27 00  622:27:51.086 HWM main  Fitness Wi-Fi Status: 0x3
+12: D0 16 27 00  624:30:22.655 HWM main  Fitness Wi-Fi Status: 0x3
+13: D0 16 27 00  624:49:03.462 HWM main  Fitness Wi-Fi Status: 0x3
+14: D0 16 27 00  625:49:59.565 HWM misc  Fitness Wi-Fi Status: 0x3
+15: D0 16 27 00  625:51:32.736 HWM main  Fitness Wi-Fi Status: 0x3
+16: D0 16 27 00  625:51:33.623 HWM main  Fitness Wi-Fi Status: 0x3
+17: D0 16 27 00  633:51:34.653 HWM main  Fitness Wi-Fi Status: 0x3
+18: D0 16 27 00  637:52:04.154 HWM main  Fitness Wi-Fi Status: 0x3
+19: D0 16 27 00  637:52:04.754 HWM main  Fitness Wi-Fi Status: 0x3
+1A: D0 16 27 00  644:14:10.221 HWM main  Fitness Wi-Fi Status: 0x3
+1B: D0 16 27 00  644:14:10.934 HWM main  Fitness Wi-Fi Status: 0x3
+1C: D0 16 27 00  644:27:30.126 HWM main  Fitness Wi-Fi Status: 0x3
+1D: D0 16 27 00  650:29:36.615 HWM main  Fitness Wi-Fi Status: 0x3
+1E: D0 16 27 00  656:14:43.193 HWM main  Fitness Wi-Fi Status: 0x3
+1F: D0 16 27 00  656:14:44.010 HWM main  Fitness Wi-Fi Status: 0x3
+20: D0 16 27 00  660:52:36.258 HWM main  Fitness Wi-Fi Status: 0x3
+21: D0 16 27 00  660:52:36.671 HWM main  Fitness Wi-Fi Status: 0x3
+22: D0 16 27 00  662:10:08.391 HWM main  Fitness Wi-Fi Status: 0x3
+23: D0 16 27 00  662:27:56.735 HWM misc  Fitness Wi-Fi Status: 0x3
+24: D0 16 27 00  662:29:01.430 HWM main  Fitness Wi-Fi Status: 0x3
+25: D0 16 27 00  662:29:02.194 HWM main  Fitness Wi-Fi Status: 0x3
+26: D0 16 27 00  666:29:26.048 HWM main  Fitness Wi-Fi Status: 0x3
+27: D0 16 27 00  666:29:26.723 HWM main  Fitness Wi-Fi Status: 0x3
+28: D0 16 27 00  678:29:27.546 HWM main  Fitness Wi-Fi Status: 0x3
+29: D0 16 27 00  682:30:02.812 HWM main  Fitness Wi-Fi Status: 0x3
+2A: D0 16 27 00  682:30:03.449 HWM main  Fitness Wi-Fi Status: 0x3
+2B: D0 16 27 00  687:19:11.264 HWM main  Fitness Wi-Fi Status: 0x3
+2C: D0 16 27 00  687:19:12.089 HWM main  Fitness Wi-Fi Status: 0x3
+2D: D0 16 27 00  687:19:35.616 HWM main  Fitness Wi-Fi Status: 0x3
+2E: D0 16 27 00  692:42:23.311 HWM main  Fitness Wi-Fi Status: 0x3
+2F: D0 16 27 00  695:19:34.159 HWM main  Fitness Wi-Fi Status: 0x3
+30: D0 16 27 00  695:19:34.684 HWM main  Fitness Wi-Fi Status: 0x3
+31: D0 16 27 00  699:19:53.948 HWM main  Fitness Wi-Fi Status: 0x3
+32: D0 16 27 00  699:19:54.584 HWM main  Fitness Wi-Fi Status: 0x3
+33: D0 16 27 00  703:20:20.524 HWM main  Fitness Wi-Fi Status: 0x3
+34: D0 16 27 00  703:20:21.138 HWM main  Fitness Wi-Fi Status: 0x3
+35: D0 16 27 00  715:20:56.683 HWM main  Fitness Wi-Fi Status: 0x3
+36: D0 16 27 00  715:20:57.283 HWM main  Fitness Wi-Fi Status: 0x3
+37: D0 16 27 00  715:33:34.186 HWM main  Fitness Wi-Fi Status: 0x3
+38: D0 16 27 00  716:25:24.738 HWM main  Fitness Wi-Fi Status: 0x3
+39: D0 16 27 00  719:21:13.692 HWM main  Fitness Wi-Fi Status: 0x3
+3A: D0 16 27 00  719:21:14.330 HWM main  Fitness Wi-Fi Status: 0x3
+3B: D0 16 27 00  727:21:15.282 HWM main  Fitness Wi-Fi Status: 0x3
+3C: D0 16 27 00  731:21:15.897 HWM main  Fitness Wi-Fi Status: 0x3
+3D: D0 16 27 00  734:31:40.119 HWM main  Fitness Wi-Fi Status: 0x3
+3E: D0 16 27 00  734:31:40.644 HWM main  Fitness Wi-Fi Status: 0x3
+3F: D0 16 27 00  734:32:16.834 HWM main  Fitness Wi-Fi Status: 0x3
+40: D0 16 27 00  738:32:06.012 HWM main  Fitness Wi-Fi Status: 0x3
+41: D0 16 27 00  738:32:06.724 HWM main  Fitness Wi-Fi Status: 0x3
+42: D0 16 27 00  746:32:33.292 HWM main  Fitness Wi-Fi Status: 0x3
+43: D0 16 27 00  746:32:33.966 HWM main  Fitness Wi-Fi Status: 0x3
+44: D0 16 27 00  747:08:41.517 HWM main  Fitness Wi-Fi Status: 0x3
+45: D0 16 27 00  747:08:42.529 HWM main  Fitness Wi-Fi Status: 0x3
+46: D0 16 27 00  747:09:32.704 HWM main  Fitness Wi-Fi Status: 0x3
+47: D0 16 27 00  747:09:33.103 HWM main  Fitness Wi-Fi Status: 0x3
+48: D0 16 27 00  747:09:55.913 HWM main  Fitness Wi-Fi Status: 0x3
+49: D0 16 27 00  748:31:19.890 HWM main  Fitness Wi-Fi Status: 0x3
+4A: D0 16 27 00  748:31:20.376 HWM main  Fitness Wi-Fi Status: 0x3
+4B: D0 16 27 00  748:31:29.902 HWM main  Fitness Wi-Fi Status: 0x3
+4C: D0 16 27 00  748:53:50.459 HWM main  Fitness Wi-Fi Status: 0x3
+4D: D0 16 27 00  748:53:51.022 HWM main  Fitness Wi-Fi Status: 0x3
+4E: D0 16 27 00  748:54:11.923 HWM main  Fitness Wi-Fi Status: 0x3
+4F: D0 16 27 00  752:53:51.889 HWM main  Fitness Wi-Fi Status: 0x3
+50: D0 16 27 00  756:54:19.015 HWM main  Fitness Wi-Fi Status: 0x3
+51: D0 16 27 00  756:54:19.652 HWM main  Fitness Wi-Fi Status: 0x3
+52: D0 16 27 00  764:54:42.242 HWM main  Fitness Wi-Fi Status: 0x3
+53: D0 16 27 00  764:54:42.880 HWM main  Fitness Wi-Fi Status: 0x3
+54: D0 16 27 00  774:09:47.058 HWM misc  Fitness Wi-Fi Status: 0x3
+55: D0 16 27 00  774:17:02.360 CDP main  Fitness Wi-Fi Status: 0x3
+56: D0 16 27 00  774:39:20.618 HWM misc  Fitness Wi-Fi Status: 0x3
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000D
+OwnerName:  BLE
+status:     13
+pri_thresh:  2
+archived:   00
+max_arch:   00
+num_recs:   C8
+rec_size:   20
+next_evnt:  1C
+timeDay:    2023/12/ 9  0:30:02 
+cycle_cnt:  39
+
+1C: D2 11 27 00  774:07:42.741 HWM misc 000000000021680300FFFF0000F9DD05 .....!h.........
+1D: DC 12 27 00  774:07:42.743 HWM main  Process BLE Event (event cmd): 0xF
+1E: DC 10 27 00  774:07:43.002 HWM main  Process BLE Event (event type): 0x3
+1F: D6 12 27 00  774:07:43.002 HWM main  BTM Notification Received (info type): 0x20
+20: DC 12 27 00  774:08:05.356 HWM main  Process BLE Event (event cmd): 0x2F
+21: D2 11 27 00  774:08:05.751 HWM misc 01BC880020A5670300FFFF0000F9DD05 .... .g.........
+22: DC 12 27 00  774:08:05.753 HWM main  Process BLE Event (event cmd): 0xF
+23: DC 12 27 00  774:08:05.756 HWM main  Process BLE Event (event cmd): 0x2F
+24: DC 10 27 00  774:08:06.765 HWM main  Process BLE Event (event type): 0x1D
+25: DC 10 27 00  774:08:07.167 HWM main  Process BLE Event (event type): 0x3
+26: D6 12 27 00  774:08:07.167 HWM main  BTM Notification Received (info type): 0x20
+27: DC 10 27 00  774:08:07.452 HWM main  Process BLE Event (event type): 0x1D
+28: D2 11 27 00  774:08:15.757 HWM misc 000000000021680300FFFF0000F9DD05 .....!h.........
+29: DC 12 27 00  774:08:15.758 HWM main  Process BLE Event (event cmd): 0xF
+2A: DC 10 27 00  774:08:16.002 HWM main  Process BLE Event (event type): 0x3
+2B: D6 12 27 00  774:08:16.002 HWM main  BTM Notification Received (info type): 0x20
+2C: DC 12 27 00  774:08:30.356 HWM main  Process BLE Event (event cmd): 0x2F
+2D: D6 12 27 00  774:09:46.602 HWM misc  BTM Notification Received (info type): 0x4
+2E: DC 12 27 00  774:09:47.054 HWM main  Process BLE Event (event cmd): 0x10
+2F: D6 13 27 00  774:09:47.060 HWM misc  BCP Notification Sent (info type): 0x1
+30: DC 10 27 00  774:09:47.064 HWM main  Process BLE Event (event type): 0x2
+31: D6 13 27 00  774:09:47.064 HWM misc  BCP Notification Sent (info type): 0x2
+32: D6 12 27 00  774:09:47.065 HWM main  BTM Notification Received (info type): 0x16
+33: D6 13 27 00  774:09:47.066 HWM main  BCP Notification Sent (info type): 0x4
+34: D6 12 27 00  774:09:47.066 HWM main  BTM Notification Received (info type): 0x4
+35* 16 17 27 00  774:09:47.067 HWM misc 008C530F00758A0300B9DD0520C88500 ..S..u...... ...
+36: DA 18 27 00  774:16:56.301 HWM main 0100000000D775501000000000050000 ......uP........
+37: D0 00 27 00  774:16:56.368 HWM misc  Local: 2023/12/ 9  0:07:37 , UTC: 2023/12/ 9  0:07:37 
+38: D4 10 27 00  774:16:56.376 HWM misc  BTM Connection Status: 0xA
+39: DC 12 27 00  774:16:56.416 HWM main  Process BLE Event (event cmd): 0x6
+3A: DC 12 27 00  774:16:56.417 HWM main  Process BLE Event (event cmd): 0x9
+3B: DC 10 27 00  774:16:56.675 HWM main  Process BLE Event (event type): 0x1
+3C: D2 11 27 00  774:16:56.675 HWM main 01F6C00520BB680300A8C40520798200 .... .h..... y..
+3D: D6 12 27 00  774:16:56.675 HWM main  BTM Notification Received (info type): 0x15
+3E: D6 13 27 00  774:16:56.701 HWM main  BCP Notification Sent (info type): 0x4
+3F: DC 10 27 00  774:16:56.996 HWM main  Process BLE Event (event type): 0x5
+40: D6 12 27 00  774:16:56.998 HWM main  BTM Notification Received (info type): 0x17
+41: DC 12 27 00  774:16:56.999 HWM main  Process BLE Event (event cmd): 0xA
+42: DC 12 27 00  774:16:57.001 HWM main  Process BLE Event (event cmd): 0x38
+43: DC 12 27 00  774:16:57.002 HWM main  Process BLE Event (event cmd): 0x2E
+44: DC 12 27 00  774:16:57.003 HWM main  Process BLE Event (event cmd): 0x1B
+45: DC 10 27 00  774:16:57.438 HWM main  Process BLE Event (event type): 0xB
+46: D6 12 27 00  774:16:57.439 HWM main  BTM Notification Received (info type): 0x12
+47: D6 13 27 00  774:16:57.440 HWM main  BCP Notification Sent (info type): 0x3
+48: DC 10 27 00  774:16:57.488 HWM main  Process BLE Event (event type): 0x27
+49: DC 10 27 00  774:16:57.489 HWM main  Process BLE Event (event type): 0x1D
+4A: DC 10 27 00  774:16:57.536 HWM main  Process BLE Event (event type): 0x12
+4B: DC 10 27 00  774:16:57.732 HWM main  Process BLE Event (event type): 0x27
+4C: DC 10 27 00  774:16:57.733 HWM main  Process BLE Event (event type): 0x1D
+4D: DC 10 27 00  774:16:57.829 HWM main  Process BLE Event (event type): 0x27
+4E: DC 10 27 00  774:16:57.830 HWM main  Process BLE Event (event type): 0x1D
+4F: D6 12 27 00  774:16:57.830 HWM main  BTM Notification Received (info type): 0x3
+50: DC 10 27 00  774:16:57.889 HWM main  Process BLE Event (event type): 0x27
+51: DC 10 27 00  774:16:57.898 HWM main  Process BLE Event (event type): 0x1D
+52: D6 12 27 00  774:16:57.898 HWM main  BTM Notification Received (info type): 0x3
+53: D6 13 27 00  774:16:57.904 HWM main  BCP Notification Sent (info type): 0x0
+54: DC 12 27 00  774:16:58.026 HWM main  Process BLE Event (event cmd): 0x2F
+55: D0 00 27 00  774:16:58.380 HWM misc  Local: 2023/12/ 9  0:07:39 , UTC: 2023/12/ 9  0:07:39 
+56: D4 10 27 00  774:16:58.380 HWM misc  BTM Connection Status: 0x9
+57: D7 00 27 00  774:16:58.381 HWM misc  Protocol Connection Status: 0x2
+58: DC 12 27 00  774:16:59.148 HWM main  Process BLE Event (event cmd): 0x2E
+59: D5 10 27 00  774:16:59.384 HWM misc 01000500010402020200000000000102 ................
+5A: D7 00 27 00  774:16:59.384 HWM misc  Protocol Connection Status: 0x3
+5B: D7 00 27 00  774:17:00.385 HWM misc  Protocol Connection Status: 0x4
+5C: DC 12 27 00  774:17:00.387 HWM main  Process BLE Event (event cmd): 0x2F
+5D: DC 12 27 00  774:17:00.610 HWM main  Process BLE Event (event cmd): 0x2E
+5E: D7 00 27 00  774:17:01.388 HWM misc  Protocol Connection Status: 0x6
+5F: DC 12 27 00  774:17:01.537 HWM main  Process BLE Event (event cmd): 0x2F
+60: DC 12 27 00  774:17:01.538 HWM main  Process BLE Event (event cmd): 0x2E
+61: DC 12 27 00  774:17:01.732 HWM main  Process BLE Event (event cmd): 0x2F
+62: D7 00 27 00  774:17:02.277 HWM misc  Protocol Connection Status: 0xB
+63: DC 12 27 00  774:17:02.281 HWM main  Process BLE Event (event cmd): 0xF
+64: DC 12 27 00  774:17:02.283 HWM main  Process BLE Event (event cmd): 0x2F
+65: DA 16 27 00  774:17:02.298 HWM misc  GNCS Subscription Time Out Operation: 0x0
+66: DA 10 27 00  774:17:02.299 HWM misc  GNCS Subscription Intent Sent: 0x0
+67: DA 16 27 00  774:17:02.303 HWM misc  GNCS Subscription Time Out Operation: 0x1
+68: DA 15 27 00  774:17:02.655 HWM main  GNCS Subscription Acknowledgment Message Status: 0x0
+69: DC 10 27 00  774:17:02.715 HWM main  Process BLE Event (event type): 0x3
+6A: D6 12 27 00  774:17:02.716 HWM main  BTM Notification Received (info type): 0x20
+6B: DA 16 27 00  774:17:03.117 HWM misc  GNCS Subscription Time Out Operation: 0x1
+6C: DA 16 27 00  774:17:03.120 HWM misc  GNCS Subscription Time Out Operation: 0x0
+6D: DA 10 27 00  774:17:03.120 HWM misc  GNCS Subscription Intent Sent: 0x1
+6E: DC 10 27 00  774:17:03.657 HWM main  Process BLE Event (event type): 0x1D
+6F: DA 15 27 00  774:17:03.658 HWM main  GNCS Subscription Acknowledgment Message Status: 0x0
+70: DA 16 27 00  774:17:04.122 HWM misc  GNCS Subscription Time Out Operation: 0x1
+71: D2 11 27 00  774:17:24.129 HWM misc 000000000021680300FFFF0000F9DD05 .....!h.........
+72: DC 12 27 00  774:17:24.130 HWM main  Process BLE Event (event cmd): 0xF
+73: DC 10 27 00  774:17:24.357 HWM main  Process BLE Event (event type): 0x3
+74: D6 12 27 00  774:17:24.357 HWM main  BTM Notification Received (info type): 0x20
+75: DC 12 27 00  774:17:26.877 HWM main  Process BLE Event (event cmd): 0x2F
+76: D2 11 27 00  774:17:33.453 HWM misc 01BC880020A5670300FFFF0000F9DD05 .... .g.........
+77: DC 12 27 00  774:17:33.455 HWM main  Process BLE Event (event cmd): 0xF
+78: DC 12 27 00  774:17:33.458 HWM main  Process BLE Event (event cmd): 0x2F
+79: DC 10 27 00  774:17:34.558 HWM main  Process BLE Event (event type): 0x1D
+7A: DC 10 27 00  774:17:34.762 HWM main  Process BLE Event (event type): 0x3
+7B: D6 12 27 00  774:17:34.762 HWM main  BTM Notification Received (info type): 0x20
+7C: DC 10 27 00  774:17:35.008 HWM main  Process BLE Event (event type): 0x1D
+7D: D2 11 27 00  774:17:43.463 HWM misc 000000000021680300FFFF0000F9DD05 .....!h.........
+7E: DC 12 27 00  774:17:43.464 HWM main  Process BLE Event (event cmd): 0xF
+7F: DC 10 27 00  774:17:43.708 HWM main  Process BLE Event (event type): 0x3
+80: D6 12 27 00  774:17:43.708 HWM main  BTM Notification Received (info type): 0x20
+81: DC 12 27 00  774:17:51.877 HWM main  Process BLE Event (event cmd): 0x2F
+82: D8 11 27 00  774:22:02.525 HWM misc 00000000000000000000000000000000 ................
+83: D2 11 27 00  774:22:03.425 HWM misc 01BC880020A5670300FFFF0000F9DD05 .... .g.........
+84: DC 12 27 00  774:22:03.427 HWM main  Process BLE Event (event cmd): 0xF
+85: DC 12 27 00  774:22:03.429 HWM main  Process BLE Event (event cmd): 0x2F
+86: DC 10 27 00  774:22:04.161 HWM main  Process BLE Event (event type): 0x1D
+87: DC 10 27 00  774:22:05.561 HWM main  Process BLE Event (event type): 0x3
+88: D6 12 27 00  774:22:05.561 HWM main  BTM Notification Received (info type): 0x20
+89: DC 10 27 00  774:22:07.486 HWM main  Process BLE Event (event type): 0x1D
+8A: D2 11 27 00  774:22:13.431 HWM misc 000000000021680300FFFF0000F9DD05 .....!h.........
+8B: DC 12 27 00  774:22:13.432 HWM main  Process BLE Event (event cmd): 0xF
+8C: DC 10 27 00  774:22:13.674 HWM main  Process BLE Event (event type): 0x3
+8D: D6 12 27 00  774:22:13.674 HWM main  BTM Notification Received (info type): 0x20
+8E: DC 12 27 00  774:22:26.877 HWM main  Process BLE Event (event cmd): 0x2F
+8F: D2 11 27 00  774:22:33.511 HWM misc 01BC880020A5670300FFFF0000F9DD05 .... .g.........
+90: DC 12 27 00  774:22:33.513 HWM main  Process BLE Event (event cmd): 0xF
+91: DC 12 27 00  774:22:33.516 HWM main  Process BLE Event (event cmd): 0x2F
+92: DC 10 27 00  774:22:34.160 HWM main  Process BLE Event (event type): 0x1D
+93: DC 10 27 00  774:22:35.559 HWM main  Process BLE Event (event type): 0x3
+94: D6 12 27 00  774:22:35.559 HWM main  BTM Notification Received (info type): 0x20
+95: D2 11 27 00  774:22:43.517 HWM misc 000000000021680300FFFF0000F9DD05 .....!h.........
+96: DC 12 27 00  774:22:43.518 HWM main  Process BLE Event (event cmd): 0xF
+97: D6 12 27 00  774:22:43.747 HWM main  BTM Notification Received (info type): 0x20
+98: DC 12 27 00  774:22:51.877 HWM main  Process BLE Event (event cmd): 0x2F
+99: D2 11 27 00  774:27:03.525 HWM misc 01BC880020A5670300FFFF0000F9DD05 .... .g.........
+9A: DC 12 27 00  774:27:03.534 HWM main  Process BLE Event (event cmd): 0xF
+9B: DC 12 27 00  774:27:03.537 HWM main  Process BLE Event (event cmd): 0x2F
+9C: DC 10 27 00  774:27:04.562 HWM main  Process BLE Event (event type): 0x1D
+9D: DC 10 27 00  774:27:04.764 HWM main  Process BLE Event (event type): 0x3
+9E: D6 12 27 00  774:27:04.764 HWM main  BTM Notification Received (info type): 0x20
+9F: DC 10 27 00  774:27:05.012 HWM main  Process BLE Event (event type): 0x1D
+A0: D2 11 27 00  774:27:13.539 HWM misc 000000000021680300FFFF0000F9DD05 .....!h.........
+A1: DC 12 27 00  774:27:13.540 HWM main  Process BLE Event (event cmd): 0xF
+A2: DC 10 27 00  774:27:13.787 HWM main  Process BLE Event (event type): 0x3
+A3: D6 12 27 00  774:27:13.787 HWM main  BTM Notification Received (info type): 0x20
+A4: DC 12 27 00  774:27:26.877 HWM main  Process BLE Event (event cmd): 0x2F
+A5: D2 11 27 00  774:27:33.618 HWM misc 01BC880020A5670300FFFF0000F9DD05 .... .g.........
+A6: DC 12 27 00  774:27:33.620 HWM main  Process BLE Event (event cmd): 0xF
+A7: DC 12 27 00  774:27:33.623 HWM main  Process BLE Event (event cmd): 0x2F
+A8: DC 10 27 00  774:27:34.964 HWM main  Process BLE Event (event type): 0x1D
+A9: DC 10 27 00  774:27:36.563 HWM main  Process BLE Event (event type): 0x3
+AA: D6 12 27 00  774:27:36.563 HWM main  BTM Notification Received (info type): 0x20
+AB: D2 11 27 00  774:27:43.624 HWM misc 000000000021680300FFFF0000F9DD05 .....!h.........
+AC: DC 12 27 00  774:27:43.625 HWM main  Process BLE Event (event cmd): 0xF
+AD: D6 12 27 00  774:27:43.863 HWM main  BTM Notification Received (info type): 0x20
+AE: DC 12 27 00  774:27:51.878 HWM main  Process BLE Event (event cmd): 0x2F
+AF: D2 11 27 00  774:32:03.630 HWM misc 01BC880020A5670300FFFF0000F9DD05 .... .g.........
+B0: DC 12 27 00  774:32:03.636 HWM main  Process BLE Event (event cmd): 0xF
+B1: DC 12 27 00  774:32:03.638 HWM main  Process BLE Event (event cmd): 0x2F
+B2: DC 10 27 00  774:32:04.766 HWM main  Process BLE Event (event type): 0x1D
+B3: DC 10 27 00  774:32:06.565 HWM main  Process BLE Event (event type): 0x3
+B4: D6 12 27 00  774:32:06.565 HWM main  BTM Notification Received (info type): 0x20
+B5: D2 11 27 00  774:32:13.688 HWM misc 000000000021680300FFFF0000F9DD05 .....!h.........
+B6: DC 12 27 00  774:32:13.689 HWM main  Process BLE Event (event cmd): 0xF
+B7: D6 12 27 00  774:32:13.940 HWM main  BTM Notification Received (info type): 0x20
+B8: DC 12 27 00  774:32:26.877 HWM main  Process BLE Event (event cmd): 0x2F
+B9: D2 11 27 00  774:32:33.721 HWM misc 01BC880020A5670300FFFF0000F9DD05 .... .g.........
+BA: DC 12 27 00  774:32:33.727 HWM main  Process BLE Event (event cmd): 0xF
+BB: DC 12 27 00  774:32:33.730 HWM main  Process BLE Event (event cmd): 0x2F
+BC: DC 10 27 00  774:32:34.765 HWM main  Process BLE Event (event type): 0x1D
+BD: DC 10 27 00  774:32:34.967 HWM main  Process BLE Event (event type): 0x3
+BE: D6 12 27 00  774:32:34.967 HWM main  BTM Notification Received (info type): 0x20
+BF: DC 10 27 00  774:32:35.240 HWM main  Process BLE Event (event type): 0x1D
+C0: D2 11 27 00  774:32:43.731 HWM misc 000000000021680300FFFF0000F9DD05 .....!h.........
+C1: DC 12 27 00  774:32:43.732 HWM main  Process BLE Event (event cmd): 0xF
+C2: DC 10 27 00  774:32:43.977 HWM main  Process BLE Event (event type): 0x3
+C3: D6 12 27 00  774:32:43.977 HWM main  BTM Notification Received (info type): 0x20
+C4: DC 12 27 00  774:32:51.878 HWM main  Process BLE Event (event cmd): 0x2F
+C5: D2 11 27 00  774:37:03.742 HWM misc 01BC880020A5670300FFFF0000F9DD05 .... .g.........
+C6: DC 12 27 00  774:37:03.744 HWM main  Process BLE Event (event cmd): 0xF
+C7: DC 12 27 00  774:37:03.747 HWM main  Process BLE Event (event cmd): 0x2F
+00: DC 10 27 00  774:37:04.964 HWM main  Process BLE Event (event type): 0x1D
+01: DC 10 27 00  774:37:05.166 HWM main  Process BLE Event (event type): 0x3
+02: D6 12 27 00  774:37:05.166 HWM main  BTM Notification Received (info type): 0x20
+03: DC 10 27 00  774:37:05.426 HWM main  Process BLE Event (event type): 0x1D
+04: D2 11 27 00  774:37:13.748 HWM misc 000000000021680300FFFF0000F9DD05 .....!h.........
+05: DC 12 27 00  774:37:13.749 HWM main  Process BLE Event (event cmd): 0xF
+06: DC 10 27 00  774:37:14.013 HWM main  Process BLE Event (event type): 0x3
+07: D6 12 27 00  774:37:14.013 HWM main  BTM Notification Received (info type): 0x20
+08: DC 12 27 00  774:37:26.877 HWM main  Process BLE Event (event cmd): 0x2F
+09: D2 11 27 00  774:37:33.829 HWM misc 01BC880020A5670300FFFF0000F9DD05 .... .g.........
+0A: DC 12 27 00  774:37:33.831 HWM main  Process BLE Event (event cmd): 0xF
+0B: DC 12 27 00  774:37:33.834 HWM main  Process BLE Event (event cmd): 0x2F
+0C: DC 10 27 00  774:37:35.163 HWM main  Process BLE Event (event type): 0x1D
+0D: DC 10 27 00  774:37:36.762 HWM main  Process BLE Event (event type): 0x3
+0E: D6 12 27 00  774:37:36.762 HWM main  BTM Notification Received (info type): 0x20
+0F: D2 11 27 00  774:37:43.835 HWM misc 000000000021680300FFFF0000F9DD05 .....!h.........
+10: DC 12 27 00  774:37:43.836 HWM main  Process BLE Event (event cmd): 0xF
+11: D6 12 27 00  774:37:44.088 HWM main  BTM Notification Received (info type): 0x20
+12: DC 12 27 00  774:37:51.877 HWM main  Process BLE Event (event cmd): 0x2F
+13: D6 12 27 00  774:39:20.607 HWM misc  BTM Notification Received (info type): 0x4
+14: DC 12 27 00  774:39:20.614 HWM main  Process BLE Event (event cmd): 0x10
+15: D6 13 27 00  774:39:20.622 HWM misc  BCP Notification Sent (info type): 0x1
+16: D6 13 27 00  774:39:20.623 HWM misc  BCP Notification Sent (info type): 0x2
+17: D6 12 27 00  774:39:20.623 HWM misc  BTM Notification Received (info type): 0x4
+18* 16 17 27 00  774:39:20.624 HWM misc 008C530F00758A0300B9DD0520C88500 ..S..u...... ...
+19: DC 10 27 00  774:39:20.965 HWM main  Process BLE Event (event type): 0x2
+1A: D6 12 27 00  774:39:21.215 HWM main  BTM Notification Received (info type): 0x16
+1B: D6 13 27 00  774:39:21.216 HWM main  BCP Notification Sent (info type): 0x4
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     03
+pri_thresh:  2
+archived:   08
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  03
+timeDay:    2023/12/ 9  0:07:37 
+cycle_cnt:  39
+
+03* 10 00 00 00  410:10:09.045 HWM main  Update Error. Time between updates: 0 ms
+04* 10 00 00 00  410:10:09.047 HWM main  Update Error. Time between updates: 0 ms
+05: D4 00 00 00  414:09:19.549 HWM main  Hits Midnight: 2023/11/24  0:00:00 
+06: D4 00 00 00  438:09:19.108 HWM main  Hits Midnight: 2023/11/25  0:00:00 
+07* 10 00 00 00  454:14:47.879 HWM misc  Update Error. Time between updates: 1635286106 ms
+08* 10 00 00 00  454:14:47.880 HWM misc  Update Error. Time between updates: 1635287879 ms
+09* 10 00 00 00  454:14:47.887 HWM main  Update Error. Time between updates: 0 ms
+0A* 10 00 00 00  454:14:47.889 HWM main  Update Error. Time between updates: 0 ms
+0B: D4 00 00 00  462:09:19.167 HWM main  Hits Midnight: 2023/11/26  0:00:00 
+0C: D4 00 00 00  486:09:19.673 HWM main  Hits Midnight: 2023/11/27  0:00:00 
+0D: D4 00 00 00  510:09:19.112 HWM main  Hits Midnight: 2023/11/28  0:00:00 
+0E* 10 00 00 00  517:15:44.991 HWM misc  Update Error. Time between updates: 1862144983 ms
+0F* 10 00 00 00  517:15:45.058 HWM main  Update Error. Time between updates: 0 ms
+10* 10 00 00 00  519:54:18.682 HWM misc  Update Error. Time between updates: 1871658679 ms
+11* 10 00 00 00  519:54:18.739 HWM main  Update Error. Time between updates: 0 ms
+12: D4 00 00 00  534:09:19.462 HWM main  Hits Midnight: 2023/11/29  0:00:00 
+13: D4 00 00 00  558:09:19.779 HWM main  Hits Midnight: 2023/11/30  0:00:00 
+14: D4 00 00 00  582:09:19.460 HWM main  Hits Midnight: 2023/12/ 1  0:00:00 
+15: D4 00 00 00  606:09:19.006 HWM main  Hits Midnight: 2023/12/ 2  0:00:00 
+16: D4 00 00 00  630:09:19.266 HWM main  Hits Midnight: 2023/12/ 3  0:00:00 
+17: D4 00 00 00  654:09:19.517 HWM main  Hits Midnight: 2023/12/ 4  0:00:00 
+18: D4 00 00 00  678:09:18.854 HWM main  Hits Midnight: 2023/12/ 5  0:00:00 
+19: D4 00 00 00  702:09:19.370 HWM main  Hits Midnight: 2023/12/ 6  0:00:00 
+1A: D4 00 00 00  726:09:19.561 HWM main  Hits Midnight: 2023/12/ 7  0:00:00 
+1B* 10 00 00 00  738:31:43.696 HWM misc  Update Error. Time between updates: -1636264694 ms
+1C* 10 00 00 00  738:31:43.707 HWM main  Update Error. Time between updates: 0 ms
+1D* 10 00 00 00  748:53:46.804 HWM misc  Update Error. Time between updates: -1598940499 ms
+1E* 10 00 00 00  748:53:46.853 HWM main  Update Error. Time between updates: 0 ms
+1F: D4 00 00 00  750:09:19.061 HWM main  Hits Midnight: 2023/12/ 8  0:00:00 
+00: D4 00 00 00  774:09:19.474 HWM main  Hits Midnight: 2023/12/ 9  0:00:00 
+01* 10 00 00 00  774:16:56.366 HWM misc  Update Error. Time between updates: 426964 ms
+02: D3 00 00 00  774:16:56.367 HWM misc  Time Jump From 2023/12/ 9  0:00:26  to 2023/12/ 9  0:07:37 
+
+
+
+>>>>> EVL_ARCH_LOGS <<<<<
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   10
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2020/ 1/20 13:36:06 
+cycle_cnt:  4
+
+00: FF 00 00 00    0:00:06.916 HWM main 2020/ 1/20 13:32:14 C:1
+01: E0 00 00 00    0:00:07.539 HWM main  CHKDSK Report: Vol:0 Time:412msec Dirs:5 Files:1700921373 Free:0 Diff:262146
+02: D0 00 00 00    0:00:07.540 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+03: D9 48 00 00    0:00:07.640 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+04: D9 48 00 00    0:00:08.307 HWM main 506F696E744361636865006964656400 PointCache.ided.
+05: D1 00 00 00    0:00:54.324 HWM main 120004000008700046094B66656C6D00 ......p.F.Kfelm.
+06: FE 01 08 00    0:00:54.325 HWM main 2020/ 1/20 13:33:01 V:0
+
+07: FF 00 00 00    0:00:01.890 HWM main 2020/ 1/20 13:33:03 C:2
+08* A8 00 00 00    0:00:02.103 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+09: E0 00 00 00    0:00:02.190 HWM main  CHKDSK Report: Vol:0 Time:90msec Dirs:42 Files:71 Free:65536 Diff:262146
+0A: D0 00 00 00    0:00:02.190 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+0B: D9 48 00 00    0:00:02.194 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+0C: D9 48 00 00    0:00:02.592 HWM main 506F696E74436163686500696465880B PointCache.ide..
+0D* A8 00 00 00    0:00:51.702 HWM misc  CHKDSK Error: 0x0309, 0x2005D2A8, 0x00000002
+0E: E0 00 00 00    0:00:51.795 HWM misc  CHKDSK Report: Vol:0 Time:96msec Dirs:42 Files:71 Free:65536 Diff:262146
+0F: D1 00 00 00    0:01:16.383 HWM main 120004000008700000004B66656C6D00 ......p...Kfelm.
+10: FE 01 08 00    0:01:16.384 HWM main 2020/ 1/20 13:34:17 V:0
+
+11: FF 00 00 00    0:00:01.583 HWM main 2020/ 1/20 13:34:39 C:3
+12* A8 00 00 00    0:00:01.796 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+13: E0 00 00 00    0:00:01.880 HWM main  CHKDSK Report: Vol:0 Time:87msec Dirs:42 Files:71 Free:65536 Diff:262146
+14: D0 00 00 00    0:00:01.881 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+15: D9 48 00 00    0:00:01.885 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+16: D9 48 00 00    0:00:02.281 HWM main 506F696E744361636865006964656400 PointCache.ided.
+17: D1 00 00 00    0:00:29.490 HWM main 120004000008700000004B66656C6D00 ......p...Kfelm.
+18: FE 01 08 00    0:00:29.491 HWM main 2020/ 1/20 13:35:07 V:0
+
+19: FF 00 00 00    0:00:01.879 HWM main 2020/ 1/20 13:35:09 C:4
+1A* A8 00 00 00    0:00:02.095 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+1B: E0 00 00 00    0:00:02.179 HWM main  CHKDSK Report: Vol:0 Time:87msec Dirs:42 Files:71 Free:65536 Diff:262146
+1C: D0 00 00 00    0:00:02.180 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+1D: D9 48 00 00    0:00:02.184 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+1E: D9 48 00 00    0:00:02.580 HWM main 506F696E74436163686500696465D023 PointCache.ide.#
+1F: D1 00 00 00    0:00:59.245 HWM main 120004000008700000004B66656C6D00 ......p...Kfelm.
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   10
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2020/ 1/20 14:07:48 
+cycle_cnt:  9
+
+00: FE 01 08 00    0:00:59.251 HWM main 2020/ 1/20 13:36:06 V:0
+
+01: FF 00 00 00    0:00:02.402 HWM main 2020/ 1/20 13:36:08 C:5
+02* A8 00 00 00    0:00:02.615 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+03: E0 00 00 00    0:00:02.698 HWM main  CHKDSK Report: Vol:0 Time:86msec Dirs:42 Files:71 Free:65536 Diff:262146
+04: D0 00 00 00    0:00:02.699 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+05: D9 48 00 00    0:00:02.703 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+06: D9 48 00 00    0:00:03.099 HWM main 506F696E744361636865006964655834 PointCache.ideX4
+07: D1 00 00 00    0:20:48.596 HWM main 120004000008700000004B66656C6D00 ......p...Kfelm.
+08: FE 01 08 00    0:20:48.597 HWM main 2020/ 1/20 13:56:54 V:0
+
+09: FF 00 00 00    0:00:02.134 HWM main 2020/ 1/20 13:56:56 C:6
+0A* A8 00 00 00    0:00:02.350 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+0B: E0 00 00 00    0:00:02.438 HWM main  CHKDSK Report: Vol:0 Time:91msec Dirs:42 Files:71 Free:65536 Diff:262146
+0C: D0 00 00 00    0:00:02.439 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+0D: D9 48 00 00    0:00:02.443 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+0E: D9 48 00 00    0:00:02.840 HWM main 506F696E744361636865006964654032 PointCache.ide@2
+
+0F? FF 00 00 00    0:00:02.155 HWM main 2020/ 1/20 13:57:24 C:7
+10* A8 00 00 00    0:00:02.371 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+11: E0 00 00 00    0:00:02.458 HWM main  CHKDSK Report: Vol:0 Time:90msec Dirs:42 Files:71 Free:65536 Diff:262146
+12: D0 00 00 00    0:00:02.458 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+13: D9 48 00 00    0:00:02.479 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+14: D9 48 00 00    0:00:02.875 HWM main 506F696E744361636865006964652830 PointCache.ide(0
+
+15? FF 00 00 00    0:00:02.166 HWM main 2020/ 1/20 14:07:27 C:8
+16* A8 00 00 00    0:00:02.382 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+17: E0 00 00 00    0:00:02.470 HWM main  CHKDSK Report: Vol:0 Time:91msec Dirs:42 Files:72 Free:65536 Diff:262146
+18: D0 00 00 00    0:00:02.471 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+19: D9 48 00 00    0:00:02.480 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+1A: D9 48 00 00    0:00:02.878 HWM main 506F696E744361636865006964652830 PointCache.ide(0
+1B: D1 00 00 00    0:00:21.830 HWM main 120004000008700000004A66656C6D00 ......p...Jfelm.
+1C: FE 01 08 00    0:00:21.834 HWM main 2020/ 1/20 14:07:47 V:0
+
+1D: FF 00 00 00    0:00:02.169 HWM main 2020/ 1/20 14:07:48 C:9
+1E* A8 00 00 00    0:00:02.388 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+1F: E0 00 00 00    0:00:02.477 HWM main  CHKDSK Report: Vol:0 Time:92msec Dirs:42 Files:72 Free:65536 Diff:262146
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   10
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2020/ 1/21  3:01:29 
+cycle_cnt:  13
+
+00: D0 00 00 00    0:00:02.484 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+01: D9 48 00 00    0:00:02.487 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+02: D9 48 00 00    0:00:02.886 HWM main 506F696E74436163686500696465A01E PointCache.ide..
+03: D1 00 00 00    0:58:12.442 HWM main 120004000008700000004A66656C6D00 ......p...Jfelm.
+04: FE 01 08 00    0:58:12.443 HWM main 2020/ 1/20 15:05:58 V:0
+
+05: FF 00 00 00    0:00:02.152 HWM main 2020/ 1/20 18:34:22 C:10
+06* A8 00 00 00    0:00:02.369 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+07: E0 00 00 00    0:00:02.454 HWM main  CHKDSK Report: Vol:0 Time:88msec Dirs:42 Files:72 Free:65536 Diff:262146
+08: D0 00 00 00    0:00:02.455 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+09: D9 48 00 00    0:00:02.458 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+0A: D9 48 00 00    0:00:02.854 HWM main 506F696E744361636865006964650831 PointCache.ide.1
+0B: D1 00 00 00    0:04:22.682 HWM main 120004000008700000004A66656C6D00 ......p...Jfelm.
+0C: FE 01 08 00    0:04:22.683 HWM main 2020/ 1/20 18:38:42 V:0
+
+0D: FF 00 00 00    0:00:02.201 HWM main 2020/ 1/21  2:59:55 C:11
+0E* A8 00 00 00    0:00:02.420 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+0F: E0 00 00 00    0:00:02.506 HWM main  CHKDSK Report: Vol:0 Time:89msec Dirs:42 Files:72 Free:65536 Diff:262146
+10: D0 00 00 00    0:00:02.506 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+11: D9 48 00 00    0:00:02.510 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+12: D9 48 00 00    0:00:02.893 HWM main 506F696E74436163686500696465E819 PointCache.ide..
+13* A8 00 00 00    0:00:24.991 HWM misc  CHKDSK Error: 0x0309, 0x2005D2A8, 0x00000002
+14: E0 00 00 00    0:00:25.091 HWM misc  CHKDSK Report: Vol:0 Time:114msec Dirs:42 Files:72 Free:65536 Diff:262146
+15: D1 00 00 00    0:00:35.490 HWM main 120004000008700000004A66656C6D00 ......p...Jfelm.
+16: FE 01 08 00    0:00:35.497 HWM main 2020/ 1/21  3:00:28 V:0
+
+17: FF 00 00 00    0:00:02.135 HWM main 2020/ 1/21  3:00:30 C:12
+18* A8 00 00 00    0:00:02.348 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+19: E0 00 00 00    0:00:02.434 HWM main  CHKDSK Report: Vol:0 Time:89msec Dirs:42 Files:72 Free:65536 Diff:262146
+1A: D0 00 00 00    0:00:02.435 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+1B: D9 48 00 00    0:00:02.439 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+1C: D9 48 00 00    0:00:02.834 HWM main 506F696E744361636865006964656400 PointCache.ided.
+1D: D1 00 00 00    0:00:58.890 HWM main 120004000008700000004A66656C6D00 ......p...Jfelm.
+1E: FE 01 08 00    0:00:58.894 HWM main 2020/ 1/21  3:01:27 V:0
+
+1F: FF 00 00 00    0:00:02.148 HWM main 2020/ 1/21  3:01:29 C:13
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   10
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2020/ 1/21  3:06:56 
+cycle_cnt:  17
+
+00* A8 00 00 00    0:00:02.366 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+01: E0 00 00 00    0:00:02.455 HWM main  CHKDSK Report: Vol:0 Time:92msec Dirs:42 Files:72 Free:65536 Diff:262146
+02: D0 00 00 00    0:00:02.456 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+03: D9 48 00 00    0:00:02.459 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+04: D9 48 00 00    0:00:02.860 HWM main 506F696E74436163686500696465F015 PointCache.ide..
+
+05? FF 00 00 00    0:00:02.211 HWM main 2020/ 1/21  3:01:29 C:14
+06* A8 00 00 00    0:00:02.430 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+07: E0 00 00 00    0:00:02.517 HWM main  CHKDSK Report: Vol:0 Time:90msec Dirs:42 Files:72 Free:65536 Diff:262146
+08: D0 00 00 00    0:00:02.518 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+09: D9 48 00 00    0:00:02.527 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+0A: D9 48 00 00    0:00:02.913 HWM main 506F696E744361636865006964651826 PointCache.ide.&
+0B: D1 00 00 00    0:01:10.136 HWM main 120004000008700000004A66656C6D00 ......p...Jfelm.
+0C: FE 01 08 00    0:01:10.144 HWM main 2020/ 1/21  3:02:37 V:0
+
+0D: FF 00 00 00    0:00:02.154 HWM main 2020/ 1/21  3:02:39 C:15
+0E* A8 00 00 00    0:00:02.367 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+0F: E0 00 00 00    0:00:02.452 HWM main  CHKDSK Report: Vol:0 Time:88msec Dirs:42 Files:72 Free:65536 Diff:262146
+10: D0 00 00 00    0:00:02.453 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+11: D9 48 00 00    0:00:02.457 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+12: D9 48 00 00    0:00:02.858 HWM main 506F696E74436163686500696465D825 PointCache.ide.%
+13: D1 00 00 00    0:03:19.279 HWM main 120004000008700000004A66656C6D00 ......p...Jfelm.
+14: FE 01 08 00    0:03:19.529 HWM main 2020/ 1/21  3:05:56 V:0
+
+15: FF 00 00 00    0:00:02.143 HWM main 2020/ 1/21  3:05:58 C:16
+16* A8 00 00 00    0:00:02.355 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+17: E0 00 00 00    0:00:02.439 HWM main  CHKDSK Report: Vol:0 Time:87msec Dirs:42 Files:72 Free:65536 Diff:262146
+18: D0 00 00 00    0:00:02.440 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+19: D9 48 00 00    0:00:02.444 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+1A: D9 48 00 00    0:00:02.841 HWM main 506F696E744361636865006964656400 PointCache.ided.
+1B: D1 00 00 00    0:00:58.092 HWM main 120004000008700000004A66656C6D00 ......p...Jfelm.
+1C: FE 01 08 00    0:00:58.100 HWM main 2020/ 1/21  3:06:54 V:0
+
+1D: FF 00 00 00    0:00:02.217 HWM main 2020/ 1/21  3:06:56 C:17
+1E* A8 00 00 00    0:00:02.430 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+1F: E0 00 00 00    0:00:02.516 HWM main  CHKDSK Report: Vol:0 Time:89msec Dirs:42 Files:72 Free:65536 Diff:262146
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   10
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2020/ 6/ 8 12:10:18 
+cycle_cnt:  20
+
+00: D0 00 00 00    0:00:02.523 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+01: D9 48 00 00    0:00:02.527 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+02: D9 48 00 00    0:00:02.932 HWM main 506F696E74436163686500696465E826 PointCache.ide.&
+03: D1 00 00 00    0:01:08.027 HWM main 120004000008700000004A66656C6D00 ......p...Jfelm.
+04: FE 01 08 00    0:01:08.035 HWM main 2020/ 1/21  3:08:02 V:0
+
+05: FF 00 00 00    0:00:02.193 HWM main 2020/ 1/21  3:08:04 C:18
+06* A8 00 00 00    0:00:02.409 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+07: E0 00 00 00    0:00:02.496 HWM main  CHKDSK Report: Vol:0 Time:90msec Dirs:42 Files:72 Free:65536 Diff:262146
+08: D0 00 00 00    0:00:02.497 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+09: D9 48 00 00    0:00:02.501 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+0A: D9 48 00 00    0:00:02.898 HWM main 506F696E74436163686500696465402A PointCache.ide@*
+0B: D1 00 00 00    0:01:17.719 HWM main 120004000008700000004A66656C6D00 ......p...Jfelm.
+0C: FE 01 08 00    0:01:17.720 HWM main 2020/ 2/29 22:44:32 V:0
+
+0D: FF 00 00 00    0:00:05.267 HWM main 2020/ 2/29 22:44:41 C:19
+0E* A8 00 00 00    0:00:05.480 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+0F: E0 00 00 00    0:00:05.565 HWM main  CHKDSK Report: Vol:0 Time:88msec Dirs:42 Files:72 Free:65536 Diff:262146
+10: D0 00 00 00    0:00:05.566 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+11: D9 48 00 00    0:00:05.897 HWM main 506F696E7443616368650069646590EC PointCache.ide..
+12: D9 48 00 00    0:00:05.923 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+13: D9 48 00 00    0:00:07.171 HWM main 506F696E744361636865006964650822 PointCache.ide."
+14: D1 00 00 00    0:06:57.848 HWM main 120004000008700032004B66656C6D00 ......p.2.Kfelm.
+15: FE 01 08 00    0:06:57.853 HWM main 2020/ 2/29 22:51:34 V:0
+
+16: FF 00 00 00    0:00:02.110 HWM main 2020/ 6/ 8 11:59:38 C:20
+17* A8 00 00 00    0:00:02.329 HWM main  CHKDSK Error: 0x0309, 0x2005BF40, 0x00000002
+18: E0 00 00 00    0:00:02.417 HWM main  CHKDSK Report: Vol:0 Time:91msec Dirs:42 Files:71 Free:65536 Diff:262146
+19: D0 00 00 00    0:00:02.418 HWM main 0000C4DB0520FBED0720D0DF052025A5 ..... ... ... %.
+1A: D9 48 00 00    0:00:02.422 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+1B: D9 48 00 00    0:00:02.808 HWM main 506F696E7443616368650069646548EE PointCache.ideH.
+1C: D9 48 00 00    0:00:07.391 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+1D: D9 48 00 00    0:10:41.798 HWM main 506F696E7443616368652F4D36384430 PointCache/M68D0
+1E: D9 48 00 00    0:10:42.039 HWM main 506F696E7443616368652F4D36384430 PointCache/M68D0
+1F: D9 48 00 00    0:10:42.067 HWM main 506F696E7443616368652F5336384430 PointCache/S68D0
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   10
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2020/ 6/ 9 11:42:41 
+cycle_cnt:  21
+
+00* A8 00 00 00    0:00:02.437 HWM main  CHKDSK Error: 0x0309, 0x2005BF88, 0x00000002
+01: E0 00 00 00    0:00:02.595 HWM main  CHKDSK Report: Vol:0 Time:167msec Dirs:42 Files:99 Free:65536 Diff:262146
+02: D0 00 00 00    0:00:02.595 HWM main 00000CDC05202FEE07201CE0052001A5 ..... /.. ... ..
+03: D9 48 00 00    0:00:02.600 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+04: D9 48 00 00    0:00:03.103 HWM main 506F696E74436163686500696465E02A PointCache.ide.*
+05: D9 48 00 00    0:00:15.351 HWM main 506F696E7443616368652F4D36384D32 PointCache/M68M2
+06: D9 48 00 00    0:00:15.364 HWM main 506F696E7443616368652F5336384D32 PointCache/S68M2
+07: D9 48 00 00    1:11:24.852 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+08: D9 48 00 00    2:03:32.208 HWM main 506F696E7443616368652F63686E676C PointCache/chngl
+09: D9 48 00 00    2:03:57.597 HWM main 506F696E7443616368652F4D36384E30 PointCache/M68N0
+0A: D9 48 00 00    2:03:57.612 HWM main 506F696E7443616368652F4D36393030 PointCache/M6900
+0B: D9 48 00 00    2:03:57.621 HWM main 506F696E7443616368652F4D36393130 PointCache/M6910
+0C: D9 48 00 00    2:03:57.675 HWM main 506F696E7443616368652F5336384E30 PointCache/S68N0
+0D: D9 48 00 00    2:03:57.684 HWM main 506F696E7443616368652F5336393030 PointCache/S6900
+0E: D9 48 00 00    2:03:57.692 HWM main 506F696E7443616368652F5336393130 PointCache/S6910
+0F: D9 48 00 00    2:08:20.386 HWM main 506F696E7443616368652F4D36393130 PointCache/M6910
+10: D9 48 00 00    2:08:20.682 HWM main 506F696E7443616368652F5336393130 PointCache/S6910
+11: D9 48 00 00    2:11:05.169 HWM main 506F696E7443616368652F4D36393130 PointCache/M6910
+12: D9 48 00 00    2:11:05.201 HWM main 506F696E7443616368652F5336393130 PointCache/S6910
+13: D9 48 00 00    2:12:48.516 HWM main 506F696E7443616368652F4D36393131 PointCache/M6911
+14: D9 48 00 00    2:12:48.544 HWM main 506F696E7443616368652F5336393131 PointCache/S6911
+15: D9 48 00 00    2:12:54.998 HWM misc 506F696E7443616368652F4136384C31 PointCache/A68L1
+16: D9 48 00 00   10:56:16.468 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+17: D9 48 00 00   11:03:02.968 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+18: D9 48 00 00   13:07:30.874 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+19: D9 48 00 00   13:07:50.236 HWM main 506F696E7443616368652F4D36393131 PointCache/M6911
+1A: D9 48 00 00   13:07:50.267 HWM main 506F696E7443616368652F5336393131 PointCache/S6911
+1B: D9 48 00 00   13:09:10.021 HWM main 506F696E7443616368652F4D36394330 PointCache/M69C0
+1C: D9 48 00 00   13:09:10.054 HWM main 506F696E7443616368652F5336394330 PointCache/S69C0
+1D: D9 48 00 00   13:09:10.081 HWM main 506F696E7443616368652F63686E676C PointCache/chngl
+1E: D9 48 00 00   13:31:58.163 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+1F: D9 48 00 00   13:41:07.042 HWM main 506F696E7443616368652F4D36394331 PointCache/M69C1
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   10
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2020/ 6/27 22:01:46 
+cycle_cnt:  22
+
+00: D9 48 00 00  433:55:39.280 HWM main 506F696E7443616368652F4D36523030 PointCache/M6R00
+01: D9 48 00 00  433:55:39.293 HWM main 506F696E7443616368652F4D36523035 PointCache/M6R05
+02: D9 48 00 00  433:55:39.331 HWM main 506F696E7443616368652F5336523030 PointCache/S6R00
+03: D9 48 00 00  433:55:39.341 HWM main 506F696E7443616368652F5336523035 PointCache/S6R05
+04: D9 48 00 00  433:55:39.378 HWM main 506F696E7443616368652F63686E676C PointCache/chngl
+05: D9 48 00 00  433:57:06.800 HWM main 506F696E7443616368652F4D36523035 PointCache/M6R05
+06: D9 48 00 00  433:57:06.840 HWM main 506F696E7443616368652F5336523035 PointCache/S6R05
+07: D9 48 00 00  434:00:46.175 HWM main 506F696E7443616368652F4D36523035 PointCache/M6R05
+08: D9 48 00 00  434:00:46.216 HWM main 506F696E7443616368652F5336523035 PointCache/S6R05
+09: D9 48 00 00  447:16:00.504 HWM main 506F696E7443616368652F4D36523130 PointCache/M6R10
+0A: D9 48 00 00  447:16:00.545 HWM main 506F696E7443616368652F5336523130 PointCache/S6R10
+0B: D9 48 00 00  447:16:52.870 HWM main 506F696E7443616368652F4D36524531 PointCache/M6RE1
+0C: D9 48 00 00  447:16:52.910 HWM main 506F696E7443616368652F5336524531 PointCache/S6RE1
+0D: D9 48 00 00  447:16:52.945 HWM main 506F696E7443616368652F63686E676C PointCache/chngl
+0E: D9 48 00 00  449:07:31.870 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+0F: D9 48 00 00  449:08:11.686 CDP bkgd 506F696E7443616368652F4136394334 PointCache/A69C4
+10: D9 48 00 00  449:08:34.989 CDP main 506F696E7443616368652F4136524731 PointCache/A6RG1
+11: D9 48 00 00  451:43:12.302 CDP main 506F696E7443616368652F4136394334 PointCache/A69C4
+12: D9 48 00 00  451:44:50.163 fit acti 506F696E7443616368652F4136524731 PointCache/A6RG1
+13: D9 48 00 00  451:44:56.661 HWM main 506F696E7443616368652F4D36524531 PointCache/M6RE1
+14: D9 48 00 00  451:44:56.704 HWM main 506F696E7443616368652F5336524531 PointCache/S6RE1
+15: D9 48 00 00  451:46:43.465 HWM main 506F696E7443616368652F4D65747269 PointCache/Metri
+16: D1 00 00 00  455:59:05.010 HWM main 1200040000087000862D715E656C6D00 ......p..-q^elm.
+17: FE 01 08 00  455:59:05.014 HWM main 2020/ 6/27 22:00:37 V:0
+
+18: FF 00 00 00    0:00:02.402 HWM main 2020/ 6/27 22:01:31 C:22
+19* A8 00 00 00    0:00:02.620 HWM main  CHKDSK Error: 0x0309, 0x2005C020, 0x00000002
+1A: E0 00 00 00    0:00:02.877 HWM main  CHKDSK Report: Vol:0 Time:265msec Dirs:42 Files:190 Free:65536 Diff:262146
+1B: D0 00 00 00    0:00:02.877 HWM main 00000000000023EF0720B8E0052081A3 ......#.. ... ..
+1C: D9 48 00 00    0:00:02.883 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+1D: D9 48 00 00    0:00:03.670 HWM main 506F696E7443616368650069646540EF PointCache.ide@.
+1E: D9 48 00 00    0:00:17.129 HWM main 506F696E7443616368652F4D36524934 PointCache/M6RI4
+1F: D9 48 00 00    0:00:17.151 HWM main 506F696E7443616368652F5336524934 PointCache/S6RI4
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   10
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2020/ 9/ 7 14:30:25 
+cycle_cnt:  22
+
+00: D9 48 00 00  500:34:02.216 HWM main 506F696E7443616368652F5339343030 PointCache/S9400
+01: D9 48 00 00  500:34:02.227 HWM main 506F696E7443616368652F5339353030 PointCache/S9500
+02: D9 48 00 00  500:34:02.238 HWM main 506F696E7443616368652F5339363030 PointCache/S9600
+03: D9 48 00 00  500:34:02.248 HWM main 506F696E7443616368652F5339364332 PointCache/S96C2
+04: D9 48 00 00  504:29:45.513 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+05: D9 48 00 00  504:30:01.349 CDP main 506F696E7443616368652F4139364733 PointCache/A96G3
+06: D9 48 00 00  505:08:39.095 fit acti 506F696E7443616368652F4139364733 PointCache/A96G3
+07: D9 48 00 00  505:08:46.316 HWM main 506F696E7443616368652F4D39364333 PointCache/M96C3
+08: D9 48 00 00  505:08:46.359 HWM main 506F696E7443616368652F5339364333 PointCache/S96C3
+09: D9 48 00 00  505:09:17.861 HWM main 506F696E7443616368652F4D65747269 PointCache/Metri
+0A: D9 48 00 00  505:31:24.237 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+0B: D9 48 00 00  506:19:53.888 HWM main 506F696E7443616368652F4D39364831 PointCache/M96H1
+0C: D9 48 00 00  506:19:53.932 HWM main 506F696E7443616368652F5339364831 PointCache/S96H1
+0D: D9 48 00 00  506:20:12.440 HWM main 506F696E7443616368652F4D65747269 PointCache/Metri
+0E: D9 48 00 00  506:29:46.487 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+0F: D9 48 00 00  507:40:12.653 HWM main 506F696E7443616368652F4D39364932 PointCache/M96I2
+10: D9 48 00 00  507:40:12.981 HWM main 506F696E7443616368652F5339364932 PointCache/S96I2
+11: D9 48 00 00  507:40:47.441 HWM main 506F696E7443616368652F4D65747269 PointCache/Metri
+12: D9 48 00 00  511:56:26.263 CDP main 506F696E7443616368652F4D65747269 PointCache/Metri
+13: D9 48 00 00  512:13:14.410 HWM main 506F696E7443616368652F4D39364A34 PointCache/M96J4
+14: D9 48 00 00  512:13:14.472 HWM main 506F696E7443616368652F5339364A34 PointCache/S96J4
+15: D9 48 00 00  512:13:14.960 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+16: D9 48 00 00  512:13:16.544 CDP main 506F696E7443616368652F4D65747269 PointCache/Metri
+17: D8 00 00 00  512:13:33.179 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+18: D8 00 00 00  521:45:58.970 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+19* A8 00 00 00  521:45:58.984 HWM main  CHKDSK Error: 0x0309, 0x2005C000, 0x00000002
+1A: E0 00 00 00  521:45:59.638 HWM main  CHKDSK Report: Vol:0 Time:664msec Dirs:43 Files:340 Free:65536 Diff:262146
+1B: D9 48 00 00  521:46:00.720 HWM main 506F696E744361636865006964656400 PointCache.ided.
+1C: D9 48 00 00  521:46:00.835 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+1D: D9 48 00 00  523:02:48.260 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+1E: D9 48 00 00  525:27:26.356 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+1F: D9 48 00 00  527:26:16.409 HWM main 506F696E7443616368652F4D65747269 PointCache/Metri
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   10
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2020/ 9/15 11:12:28 
+cycle_cnt:  22
+
+00: D9 48 00 00  676:08:54.062 CDP main 506F696E7443616368652F3234464553 PointCache/24FES
+01: D9 48 00 00  676:08:54.075 CDP main 506F696E7443616368652F32354A756D PointCache/25Jum
+02: D9 48 00 00  676:08:54.089 CDP main 506F696E7443616368652F3236546163 PointCache/26Tac
+03: D9 48 00 00  676:08:54.103 CDP main 506F696E7443616368652F3237426F61 PointCache/27Boa
+04: D9 48 00 00  676:08:54.121 CDP main 506F696E7443616368652F3238474E61 PointCache/28GNa
+05: D9 48 00 00  676:08:54.135 CDP main 506F696E7443616368652F3239475472 PointCache/29GTr
+06: D9 48 00 00  676:08:54.148 CDP main 506F696E7443616368652F3330474F74 PointCache/30GOt
+07: D9 48 00 00  676:08:54.161 CDP main 506F696E7443616368652F3331476F6C PointCache/31Gol
+08: D9 48 00 00  676:08:54.175 CDP main 506F696E7443616368652F3339475371 PointCache/39GSq
+09: D9 48 00 00  676:09:00.555 CDP main 506F696E7443616368652F4465766963 PointCache/Devic
+0A: D8 00 00 00  676:09:05.550 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+0B: D8 00 00 00  680:45:14.270 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+0C* A8 00 00 00  680:45:14.281 HWM main  CHKDSK Error: 0x0309, 0x2005C000, 0x00000002
+0D: E0 00 00 00  680:45:14.975 HWM main  CHKDSK Report: Vol:0 Time:704msec Dirs:43 Files:353 Free:65536 Diff:262146
+0E: D9 48 00 00  680:45:16.111 HWM main 506F696E744361636865006964656400 PointCache.ided.
+0F: D9 48 00 00  680:45:16.235 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+10: D9 48 00 00  690:36:39.038 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+11: D9 48 00 00  695:10:28.301 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+12: D9 48 00 00  699:04:52.544 HWM main 506F696E7443616368652F4D65747269 PointCache/Metri
+13: D9 48 00 00  699:17:32.668 HWM main 506F696E7443616368652F4D39444B31 PointCache/M9DK1
+14: D9 48 00 00  699:17:32.688 HWM main 506F696E7443616368652F4D39454A30 PointCache/M9EJ0
+15: D9 48 00 00  699:17:32.738 HWM main 506F696E7443616368652F5339444B31 PointCache/S9DK1
+16: D9 48 00 00  699:17:32.754 HWM main 506F696E7443616368652F5339444B31 PointCache/S9DK1
+17: D9 48 00 00  699:17:32.770 HWM main 506F696E7443616368652F5339454A30 PointCache/S9EJ0
+18: D9 48 00 00  714:01:00.764 HWM main 506F696E7443616368652F4D39454A32 PointCache/M9EJ2
+19: D9 48 00 00  714:01:00.830 HWM main 506F696E7443616368652F5339454A32 PointCache/S9EJ2
+1A: D9 48 00 00  714:01:24.888 HWM main 506F696E7443616368652F4D65747269 PointCache/Metri
+1B: D9 48 00 00  714:21:12.961 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+1C: D9 48 00 00  716:08:19.837 HWM main 506F696E7443616368652F4D39463030 PointCache/M9F00
+1D: D9 48 00 00  716:08:20.129 HWM main 506F696E7443616368652F4D39464130 PointCache/M9FA0
+1E: D9 48 00 00  716:08:20.179 HWM main 506F696E7443616368652F5339463030 PointCache/S9F00
+1F: D9 48 00 00  716:08:20.199 HWM main 506F696E7443616368652F5339464130 PointCache/S9FA0
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   10
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2020/11/ 3  1:24:05 
+cycle_cnt:  23
+
+00* A8 00 00 00    0:00:03.328 HWM main  CHKDSK Error: 0x0309, 0x2005C040, 0x00000002
+01: E0 00 00 00    0:00:04.122 HWM main  CHKDSK Report: Vol:0 Time:801msec Dirs:43 Files:400 Free:65536 Diff:262146
+02: D0 00 00 00    0:00:04.122 HWM main 0000C8DC05204BEF0720DCE0052005A4 ..... K.. ... ..
+03: D9 48 00 00    0:00:04.127 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+04: D9 48 00 00    0:00:05.699 HWM main 506F696E744361636865006964658844 PointCache.ide.D
+05: D9 48 00 00    0:00:19.596 HWM main 506F696E7443616368652F4D41554430 PointCache/MAUD0
+06: D9 48 00 00    0:00:19.617 HWM main 506F696E7443616368652F5341554430 PointCache/SAUD0
+07: D9 48 00 00   16:04:21.150 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+08: D9 48 00 00   17:50:36.690 HWM main 506F696E7443616368652F4D65747269 PointCache/Metri
+09: D9 48 00 00   25:50:39.887 HWM main 506F696E7443616368652F4D41554E30 PointCache/MAUN0
+0A: D9 48 00 00   25:50:40.177 HWM main 506F696E7443616368652F4D41563030 PointCache/MAV00
+0B: D9 48 00 00   25:50:40.195 HWM main 506F696E7443616368652F4D41564735 PointCache/MAVG5
+0C: D9 48 00 00   25:50:40.271 HWM main 506F696E7443616368652F5341554E30 PointCache/SAUN0
+0D: D9 48 00 00   25:50:40.288 HWM main 506F696E7443616368652F5341563030 PointCache/SAV00
+0E: D9 48 00 00   25:50:40.306 HWM main 506F696E7443616368652F5341564735 PointCache/SAVG5
+0F: D9 48 00 00   25:51:16.331 HWM main 506F696E7443616368652F4D65747269 PointCache/Metri
+10: D9 48 00 00   45:51:20.623 HWM main 506F696E7443616368652F4D42313030 PointCache/MB100
+11: D9 48 00 00   45:51:20.643 HWM main 506F696E7443616368652F4D42313035 PointCache/MB105
+12: D9 48 00 00   45:51:20.690 HWM main 506F696E7443616368652F5342313030 PointCache/SB100
+13: D9 48 00 00   45:51:20.706 HWM main 506F696E7443616368652F5342313035 PointCache/SB105
+14: D9 48 00 00   49:52:01.778 HWM main 506F696E7443616368652F4D42314B35 PointCache/MB1K5
+15: D9 48 00 00   49:52:01.862 HWM main 506F696E7443616368652F5342314B35 PointCache/SB1K5
+16: D9 48 00 00   49:52:18.873 HWM main 506F696E7443616368652F4D65747269 PointCache/Metri
+17: D9 48 00 00   65:37:55.876 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+18: D9 48 00 00   66:21:14.516 HWM main 506F696E7443616368652F4D42323030 PointCache/MB200
+19: D9 48 00 00   66:21:14.535 HWM main 506F696E7443616368652F4D42323035 PointCache/MB205
+1A: D9 48 00 00   66:21:14.588 HWM main 506F696E7443616368652F5342323030 PointCache/SB200
+1B: D9 48 00 00   66:21:14.602 HWM main 506F696E7443616368652F5342323035 PointCache/SB205
+1C: D9 48 00 00   66:22:28.330 HWM main 506F696E7443616368652F4D65747269 PointCache/Metri
+1D: D9 48 00 00   72:22:06.664 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+1E: D9 48 00 00   74:22:31.217 HWM main 506F696E7443616368652F4D42324832 PointCache/MB2H2
+1F: D9 48 00 00   74:22:31.293 HWM main 506F696E7443616368652F5342324832 PointCache/SB2H2
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   10
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2020/11/11 17:42:00 
+cycle_cnt:  24
+
+00: D9 48 00 00  238:25:31.853 HWM main 506F696E7443616368652F4D42393030 PointCache/MB900
+01: D9 48 00 00  238:25:32.157 HWM main 506F696E7443616368652F4D42393132 PointCache/MB912
+02: D9 48 00 00  238:25:32.210 HWM main 506F696E7443616368652F5342393030 PointCache/SB900
+03: D9 48 00 00  238:25:32.223 HWM main 506F696E7443616368652F5342393132 PointCache/SB912
+04: D9 48 00 00  242:26:03.912 HWM main 506F696E7443616368652F4D42394C32 PointCache/MB9L2
+05: D9 48 00 00  242:26:03.992 HWM main 506F696E7443616368652F5342394C32 PointCache/SB9L2
+06: D9 48 00 00  242:26:24.477 HWM main 506F696E7443616368652F4D65747269 PointCache/Metri
+07: D9 48 00 00  253:32:19.670 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+08: D9 48 00 00  253:33:48.046 fit acti 506F696E7443616368652F4136384C32 PointCache/A68L2
+09: D9 48 00 00  253:33:48.402 fit acti 506F696E7443616368652F4136394533 PointCache/A69E3
+0A: D9 48 00 00  253:33:48.777 fit acti 506F696E7443616368652F4136414235 PointCache/A6AB5
+0B: D9 48 00 00  253:33:48.825 fit acti 506F696E7443616368652F4136414835 PointCache/A6AH5
+0C: D9 48 00 00  253:33:48.872 fit acti 506F696E7443616368652F4136424835 PointCache/A6BH5
+0D: D9 48 00 00  253:33:48.916 fit acti 506F696E7443616368652F4136424D33 PointCache/A6BM3
+0E: D9 48 00 00  253:33:48.962 fit acti 506F696E7443616368652F4136434331 PointCache/A6CC1
+0F: D9 48 00 00  253:33:49.022 fit acti 506F696E7443616368652F4136434B33 PointCache/A6CK3
+10: D9 48 00 00  253:33:49.073 fit acti 506F696E7443616368652F4136444732 PointCache/A6DG2
+11: D9 48 00 00  253:33:49.127 fit acti 506F696E7443616368652F4136454333 PointCache/A6EC3
+12: D9 48 00 00  254:25:01.408 HWM main 506F696E7443616368652F4D42413030 PointCache/MBA00
+13: D9 48 00 00  254:25:01.427 HWM main 506F696E7443616368652F4D42413132 PointCache/MBA12
+14: D9 48 00 00  254:25:01.475 HWM main 506F696E7443616368652F5342413030 PointCache/SBA00
+15: D9 48 00 00  254:25:01.490 HWM main 506F696E7443616368652F5342413132 PointCache/SBA12
+16: D9 48 00 00  254:26:39.024 HWM main 506F696E7443616368652F4D65747269 PointCache/Metri
+17: D9 48 00 00  266:26:41.336 HWM main 506F696E7443616368652F4D42414432 PointCache/MBAD2
+18: D9 48 00 00  266:26:41.685 HWM main 506F696E7443616368652F5342414432 PointCache/SBAD2
+19: D9 48 00 00  266:26:41.752 HWM main 506F696E7443616368652F63686E676C PointCache/chngl
+1A: D9 48 00 00  266:27:06.940 HWM main 506F696E7443616368652F4D65747269 PointCache/Metri
+
+1B? FF 00 00 00    0:00:03.206 HWM main 2020/11/11 17:41:59 C:24
+1C* A8 00 00 00    0:00:03.437 HWM main  CHKDSK Error: 0x0309, 0x2005C040, 0x00000002
+1D: E0 00 00 00    0:00:04.305 HWM main  CHKDSK Report: Vol:0 Time:878msec Dirs:43 Files:406 Free:65536 Diff:262146
+1E: D0 00 00 00    0:00:04.305 HWM main 0000C8DC05204BEF0720DCE0052005A4 ..... K.. ... ..
+1F: D9 48 00 00    0:00:04.595 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   10
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2020/12/21 11:28:39 
+cycle_cnt:  24
+
+00: D9 48 00 00  951:53:17.009 CDP main 506F696E7443616368652F37534F7065 PointCache/7SOpe
+01: D9 48 00 00  951:53:17.020 CDP main 506F696E7443616368652F3853506F6F PointCache/8SPoo
+02: D9 48 00 00  951:53:17.031 CDP main 506F696E7443616368652F3948696B65 PointCache/9Hike
+03: D9 48 00 00  951:53:17.043 CDP main 506F696E7443616368652F3130536B69 PointCache/10Ski
+04: D9 48 00 00  951:53:17.752 CDP main 506F696E7443616368652F3131536E6F PointCache/11Sno
+05: D9 48 00 00  951:53:17.764 CDP main 506F696E7443616368652F313258435F PointCache/12XC_
+06: D9 48 00 00  951:53:17.774 CDP main 506F696E7443616368652F3133436C69 PointCache/13Cli
+07: D9 48 00 00  951:53:17.786 CDP main 506F696E7443616368652F3134575761 PointCache/14WWa
+08: D9 48 00 00  951:53:17.797 CDP main 506F696E7443616368652F3135535550 PointCache/15SUP
+09: D9 48 00 00  951:53:18.582 CDP main 506F696E7443616368652F31364B6179 PointCache/16Kay
+0A: D9 48 00 00  951:53:18.593 CDP main 506F696E7443616368652F3137526F77 PointCache/17Row
+0B: D9 48 00 00  951:53:18.604 CDP main 506F696E7443616368652F3138526F77 PointCache/18Row
+0C: D9 48 00 00  951:53:18.615 CDP main 506F696E7443616368652F3139547253 PointCache/19TrS
+0D: D9 48 00 00  951:53:18.625 CDP main 506F696E7443616368652F3230547243 PointCache/20TrC
+0E: D9 48 00 00  951:53:18.637 CDP main 506F696E7443616368652F3231547259 PointCache/21TrY
+0F: D9 48 00 00  951:53:18.647 CDP main 506F696E7443616368652F3232466C6F PointCache/22Flo
+10: D9 48 00 00  951:53:18.658 CDP main 506F696E7443616368652F3233464545 PointCache/23FEE
+11: D9 48 00 00  951:53:18.670 CDP main 506F696E7443616368652F3234464553 PointCache/24FES
+12: D9 48 00 00  951:53:18.681 CDP main 506F696E7443616368652F32354A756D PointCache/25Jum
+13: D9 48 00 00  951:53:18.691 CDP main 506F696E7443616368652F3236546163 PointCache/26Tac
+14: D9 48 00 00  951:53:18.702 CDP main 506F696E7443616368652F3237426F61 PointCache/27Boa
+15: D9 48 00 00  951:53:18.718 CDP main 506F696E7443616368652F3238474E61 PointCache/28GNa
+16: D9 48 00 00  951:53:18.730 CDP main 506F696E7443616368652F3239475472 PointCache/29GTr
+17: D9 48 00 00  951:53:18.747 CDP main 506F696E7443616368652F3330474F74 PointCache/30GOt
+18: D9 48 00 00  951:53:18.760 CDP main 506F696E7443616368652F3331476F6C PointCache/31Gol
+19: D9 48 00 00  951:53:19.679 CDP main 506F696E7443616368652F3339475371 PointCache/39GSq
+1A: D9 48 00 00  951:53:26.629 CDP main 506F696E7443616368652F4465766963 PointCache/Devic
+1B: D8 00 00 00  951:53:33.865 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+1C: D8 00 00 00  951:53:33.880 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+1D* A8 00 00 00  951:53:33.891 HWM main  CHKDSK Error: 0x0309, 0x2005C020, 0x00000002
+1E: E0 00 00 00  951:53:34.726 HWM main  CHKDSK Report: Vol:0 Time:845msec Dirs:43 Files:432 Free:65536 Diff:262146
+1F: D9 48 00 00  951:53:36.079 HWM main 506F696E744361636865006964656400 PointCache.ided.
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   10
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2021/ 5/ 9 13:18:11 
+cycle_cnt:  24
+
+00: D9 48 00 00  652:44:09.859 CDP main 506F696E7443616368652F31364B6179 PointCache/16Kay
+01: D9 48 00 00  652:44:09.871 CDP main 506F696E7443616368652F3137526F77 PointCache/17Row
+02: D9 48 00 00  652:44:09.883 CDP main 506F696E7443616368652F3138526F77 PointCache/18Row
+03: D9 48 00 00  652:44:09.895 CDP main 506F696E7443616368652F3139547253 PointCache/19TrS
+04: D9 48 00 00  652:44:09.908 CDP main 506F696E7443616368652F3230547243 PointCache/20TrC
+05: D9 48 00 00  652:44:09.920 CDP main 506F696E7443616368652F3231547259 PointCache/21TrY
+06: D9 48 00 00  652:44:09.933 CDP main 506F696E7443616368652F3232466C6F PointCache/22Flo
+07: D9 48 00 00  652:44:09.947 CDP main 506F696E7443616368652F3233464545 PointCache/23FEE
+08: D9 48 00 00  652:44:09.959 CDP main 506F696E7443616368652F3234464553 PointCache/24FES
+09: D9 48 00 00  652:44:09.971 CDP main 506F696E7443616368652F32354A756D PointCache/25Jum
+0A: D9 48 00 00  652:44:09.983 CDP main 506F696E7443616368652F3236546163 PointCache/26Tac
+0B: D9 48 00 00  652:44:09.995 CDP main 506F696E7443616368652F3237426F61 PointCache/27Boa
+0C: D9 48 00 00  652:44:10.007 CDP main 506F696E7443616368652F3238474E61 PointCache/28GNa
+0D: D9 48 00 00  652:44:10.020 CDP main 506F696E7443616368652F3239475472 PointCache/29GTr
+0E: D9 48 00 00  652:44:10.033 CDP main 506F696E7443616368652F3330474F74 PointCache/30GOt
+0F: D9 48 00 00  652:44:10.046 CDP main 506F696E7443616368652F3331476F6C PointCache/31Gol
+10: D9 48 00 00  652:44:10.060 CDP main 506F696E7443616368652F3339475371 PointCache/39GSq
+11: D9 48 00 00  652:44:18.802 CDP main 506F696E7443616368652F4465766963 PointCache/Devic
+12: D8 00 00 00  652:44:24.843 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+13: D8 00 00 00  652:44:24.859 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+14* A8 00 00 00  652:44:24.870 HWM main  CHKDSK Error: 0x0309, 0x2005C020, 0x00000002
+15: E0 00 00 00  652:44:25.682 HWM main  CHKDSK Report: Vol:0 Time:822msec Dirs:43 Files:419 Free:65536 Diff:262146
+16: D9 48 00 00  652:44:27.153 HWM main 506F696E744361636865006964656400 PointCache.ided.
+17: D9 48 00 00  652:44:27.274 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+18: D9 48 00 00  672:16:46.179 HWM main 506F696E7443616368652F5334553030 PointCache/S4U00
+19: D9 48 00 00  691:11:33.023 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+1A: D9 48 00 00  696:16:46.189 HWM main 506F696E7443616368652F5335313030 PointCache/S5100
+1B: D9 48 00 00  696:16:47.246 CDP main 506F696E7443616368652F4D65747269 PointCache/Metri
+1C: D9 48 00 00  710:34:57.352 HWM main 506F696E7443616368652F4D34523030 PointCache/M4R00
+1D: D9 48 00 00  710:34:57.372 HWM main 506F696E7443616368652F4D34533030 PointCache/M4S00
+1E: D9 48 00 00  710:34:57.386 HWM main 506F696E7443616368652F4D34543030 PointCache/M4T00
+1F: D9 48 00 00  710:34:57.407 HWM main 506F696E7443616368652F4D34553030 PointCache/M4U00
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   10
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2021/ 8/16 16:23:14 
+cycle_cnt:  24
+
+00: D9 48 00 00  702:07:58.802 CDP main 506F696E7443616368652F3948696B65 PointCache/9Hike
+01: D9 48 00 00  702:07:58.814 CDP main 506F696E7443616368652F3130536B69 PointCache/10Ski
+02: D9 48 00 00  702:07:58.825 CDP main 506F696E7443616368652F3131536E6F PointCache/11Sno
+03: D9 48 00 00  702:07:58.838 CDP main 506F696E7443616368652F313258435F PointCache/12XC_
+04: D9 48 00 00  702:07:58.850 CDP main 506F696E7443616368652F3133436C69 PointCache/13Cli
+05: D9 48 00 00  702:07:58.862 CDP main 506F696E7443616368652F3134575761 PointCache/14WWa
+06: D9 48 00 00  702:07:58.876 CDP main 506F696E7443616368652F3135535550 PointCache/15SUP
+07: D9 48 00 00  702:07:58.888 CDP main 506F696E7443616368652F31364B6179 PointCache/16Kay
+08: D9 48 00 00  702:07:58.901 CDP main 506F696E7443616368652F3137526F77 PointCache/17Row
+09: D9 48 00 00  702:07:58.913 CDP main 506F696E7443616368652F3138526F77 PointCache/18Row
+0A: D9 48 00 00  702:07:58.925 CDP main 506F696E7443616368652F3139547253 PointCache/19TrS
+0B: D9 48 00 00  702:07:58.937 CDP main 506F696E7443616368652F3230547243 PointCache/20TrC
+0C: D9 48 00 00  702:07:58.950 CDP main 506F696E7443616368652F3231547259 PointCache/21TrY
+0D: D9 48 00 00  702:07:58.963 CDP main 506F696E7443616368652F3232466C6F PointCache/22Flo
+0E: D9 48 00 00  702:07:58.975 CDP main 506F696E7443616368652F3233464545 PointCache/23FEE
+0F: D9 48 00 00  702:07:58.990 CDP main 506F696E7443616368652F3234464553 PointCache/24FES
+10: D9 48 00 00  702:07:59.003 CDP main 506F696E7443616368652F32354A756D PointCache/25Jum
+11: D9 48 00 00  702:07:59.016 CDP main 506F696E7443616368652F3236546163 PointCache/26Tac
+12: D9 48 00 00  702:07:59.028 CDP main 506F696E7443616368652F3237426F61 PointCache/27Boa
+13: D9 48 00 00  702:07:59.049 CDP main 506F696E7443616368652F3238474E61 PointCache/28GNa
+14: D9 48 00 00  702:07:59.062 CDP main 506F696E7443616368652F3239475472 PointCache/29GTr
+15: D9 48 00 00  702:07:59.990 CDP main 506F696E7443616368652F3330474F74 PointCache/30GOt
+16: D9 48 00 00  702:08:00.007 CDP main 506F696E7443616368652F3331476F6C PointCache/31Gol
+17: D9 48 00 00  702:08:00.019 CDP main 506F696E7443616368652F3339475371 PointCache/39GSq
+18: D9 48 00 00  702:08:07.069 CDP main 506F696E7443616368652F4465766963 PointCache/Devic
+19: D8 00 00 00  702:08:14.015 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+1A: D8 00 00 00  703:33:17.373 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+1B* A8 00 00 00  703:33:17.396 HWM main  CHKDSK Error: 0x0309, 0x2005C020, 0x00000002
+1C: E0 00 00 00  703:33:18.206 HWM main  CHKDSK Report: Vol:0 Time:832msec Dirs:43 Files:402 Free:65536 Diff:262146
+1D: D9 48 00 00  703:33:19.604 HWM main 506F696E744361636865006964656400 PointCache.ided.
+1E: D9 48 00 00  703:33:19.730 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+1F: D9 48 00 00  703:34:37.115 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   10
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2021/ 8/17 12:46:01 
+cycle_cnt:  24
+
+00: D9 48 00 00  703:34:39.980 CDP main 506F696E7443616368652F3238474E61 PointCache/28GNa
+01: D9 48 00 00  703:34:39.994 CDP main 506F696E7443616368652F3239475472 PointCache/29GTr
+02: D9 48 00 00  703:34:40.004 CDP main 506F696E7443616368652F3330474F74 PointCache/30GOt
+03: D9 48 00 00  703:34:40.015 CDP main 506F696E7443616368652F3331476F6C PointCache/31Gol
+04: D9 48 00 00  703:34:40.026 CDP main 506F696E7443616368652F3339475371 PointCache/39GSq
+05: D9 48 00 00  703:34:47.804 CDP main 506F696E7443616368652F4465766963 PointCache/Devic
+06: D8 00 00 00  703:34:53.778 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+07: D8 00 00 00  703:37:51.015 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+08* A8 00 00 00  703:37:51.031 HWM main  CHKDSK Error: 0x0309, 0x2005C020, 0x00000002
+09: E0 00 00 00  703:37:51.844 HWM main  CHKDSK Report: Vol:0 Time:822msec Dirs:43 Files:404 Free:65536 Diff:262146
+0A: D9 48 00 00  703:37:53.205 HWM main 506F696E744361636865006964656400 PointCache.ided.
+0B: D9 48 00 00  703:37:53.324 HWM main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+0C: D9 48 00 00  705:25:53.999 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+0D: D9 48 00 00  706:24:51.295 HWM main 506F696E7443616368652F4D65747269 PointCache/Metri
+0E: D9 48 00 00  706:27:03.858 CDP main 4750535F53455454494E47532E545854 GPS_SETTINGS.TXT
+0F: D9 48 00 00  706:49:41.019 HWM main 506F696E7443616368652F4D38474635 PointCache/M8GF5
+10: D9 48 00 00  706:49:41.041 HWM main 506F696E7443616368652F4D38474832 PointCache/M8GH2
+11: D9 48 00 00  706:49:41.058 HWM main 506F696E7443616368652F4D38474B31 PointCache/M8GK1
+12: D9 48 00 00  706:49:41.110 HWM main 506F696E7443616368652F5338474635 PointCache/S8GF5
+13: D9 48 00 00  706:49:41.124 HWM main 506F696E7443616368652F5338474832 PointCache/S8GH2
+14: D9 48 00 00  706:49:41.136 HWM main 506F696E7443616368652F5338474B31 PointCache/S8GK1
+15: D9 48 00 00  706:49:41.176 HWM main 506F696E7443616368652F63686E676C PointCache/chngl
+16: D9 48 00 00  706:50:14.680 HWM main 506F696E7443616368652F4D65747269 PointCache/Metri
+17: D9 48 00 00  708:20:55.080 HWM main 506F696E7443616368652F4D38474B33 PointCache/M8GK3
+18: D9 48 00 00  708:20:55.420 HWM main 506F696E7443616368652F5338474B33 PointCache/S8GK3
+19: D9 48 00 00  712:21:06.583 HWM main 506F696E7443616368652F4D38474D30 PointCache/M8GM0
+1A: D9 48 00 00  712:21:06.946 HWM main 506F696E7443616368652F5338474D30 PointCache/S8GM0
+1B: D9 48 00 00  712:21:33.245 HWM main 506F696E7443616368652F4D65747269 PointCache/Metri
+1C: D9 48 00 00  723:57:23.255 HWM main 506F696E7443616368652F4D38483030 PointCache/M8H00
+1D: D9 48 00 00  723:57:23.268 HWM main 506F696E7443616368652F4D38483230 PointCache/M8H20
+1E: D9 48 00 00  723:57:23.323 HWM main 506F696E7443616368652F5338483030 PointCache/S8H00
+1F: D9 48 00 00  723:57:23.629 HWM main 506F696E7443616368652F5338483230 PointCache/S8H20
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   10
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2021/ 9/23 18:36:32 
+cycle_cnt:  24
+
+00: D9 48 00 00  424:12:13.435 CDP main 506F696E7443616368652F354342696B PointCache/5CBik
+01: D9 48 00 00  424:12:13.449 CDP main 506F696E7443616368652F36434D5442 PointCache/6CMTB
+02: D9 48 00 00  424:12:13.462 CDP main 506F696E7443616368652F37534F7065 PointCache/7SOpe
+03: D9 48 00 00  424:12:13.475 CDP main 506F696E7443616368652F3853506F6F PointCache/8SPoo
+04: D9 48 00 00  424:12:13.488 CDP main 506F696E7443616368652F3948696B65 PointCache/9Hike
+05: D9 48 00 00  424:12:13.501 CDP main 506F696E7443616368652F3130536B69 PointCache/10Ski
+06: D9 48 00 00  424:12:13.514 CDP main 506F696E7443616368652F3131536E6F PointCache/11Sno
+07: D9 48 00 00  424:12:13.528 CDP main 506F696E7443616368652F313258435F PointCache/12XC_
+08: D9 48 00 00  424:12:13.542 CDP main 506F696E7443616368652F3133436C69 PointCache/13Cli
+09: D9 48 00 00  424:12:13.555 CDP main 506F696E7443616368652F3134575761 PointCache/14WWa
+0A: D9 48 00 00  424:12:13.568 CDP main 506F696E7443616368652F3135535550 PointCache/15SUP
+0B: D9 48 00 00  424:12:13.581 CDP main 506F696E7443616368652F31364B6179 PointCache/16Kay
+0C: D9 48 00 00  424:12:13.595 CDP main 506F696E7443616368652F3137526F77 PointCache/17Row
+0D: D9 48 00 00  424:12:13.608 CDP main 506F696E7443616368652F3138526F77 PointCache/18Row
+0E: D9 48 00 00  424:12:13.622 CDP main 506F696E7443616368652F3139547253 PointCache/19TrS
+0F: D9 48 00 00  424:12:13.636 CDP main 506F696E7443616368652F3230547243 PointCache/20TrC
+10: D9 48 00 00  424:12:13.650 CDP main 506F696E7443616368652F3231547259 PointCache/21TrY
+11: D9 48 00 00  424:12:13.664 CDP main 506F696E7443616368652F3232466C6F PointCache/22Flo
+12: D9 48 00 00  424:12:13.677 CDP main 506F696E7443616368652F3233464545 PointCache/23FEE
+13: D9 48 00 00  424:12:14.628 CDP main 506F696E7443616368652F3234464553 PointCache/24FES
+14: D9 48 00 00  424:12:14.642 CDP main 506F696E7443616368652F32354A756D PointCache/25Jum
+15: D9 48 00 00  424:12:14.656 CDP main 506F696E7443616368652F3236546163 PointCache/26Tac
+16: D9 48 00 00  424:12:14.669 CDP main 506F696E7443616368652F3237426F61 PointCache/27Boa
+17: D9 48 00 00  424:12:14.689 CDP main 506F696E7443616368652F3238474E61 PointCache/28GNa
+18: D9 48 00 00  424:12:14.702 CDP main 506F696E7443616368652F3239475472 PointCache/29GTr
+19: D9 48 00 00  424:12:15.013 CDP main 506F696E7443616368652F3330474F74 PointCache/30GOt
+1A: D9 48 00 00  424:12:15.027 CDP main 506F696E7443616368652F3331476F6C PointCache/31Gol
+1B: D9 48 00 00  424:12:15.045 CDP main 506F696E7443616368652F3339475371 PointCache/39GSq
+1C: D9 48 00 00  424:12:23.331 CDP main 506F696E7443616368652F4465766963 PointCache/Devic
+1D: D8 00 00 00  424:12:30.735 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+1E: D8 00 00 00  424:45:09.449 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+1F* A8 00 00 00  424:45:09.485 HWM main  CHKDSK Error: 0x0309, 0x2005C020, 0x00000002
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   08
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  08
+timeDay:    2020/ 6/ 8 22:02:00 
+cycle_cnt:  21
+
+08: FF 00 00 00    0:00:01.158 HWM main 2020/ 1/20 13:36:07 C:5
+09: FE 01 0E 00    0:20:48.598 HWM main 2020/ 1/20 13:56:54 V:0
+
+0A: FF 00 00 00    0:00:01.212 HWM main 2020/ 1/20 13:56:55 C:6
+
+0B? FF 00 00 00    0:00:01.231 HWM main 2020/ 1/20 13:57:23 C:7
+
+0C? FF 00 00 00    0:00:01.246 HWM main 2020/ 1/20 14:07:26 C:8
+0D: FE 01 0E 00    0:00:21.838 HWM main 2020/ 1/20 14:07:47 V:0
+
+0E: FF 00 00 00    0:00:01.249 HWM main 2020/ 1/20 14:07:47 C:9
+0F: FE 01 0E 00    0:58:12.444 HWM main 2020/ 1/20 15:05:58 V:0
+
+10: FF 00 00 00    0:00:01.234 HWM main 2020/ 1/20 18:34:21 C:10
+11: FE 01 0E 00    0:04:22.684 HWM main 2020/ 1/20 18:38:42 V:0
+
+12: FF 00 00 00    0:00:01.280 HWM main 2020/ 1/21  2:59:54 C:11
+13: FE 01 0E 00    0:00:35.497 HWM main 2020/ 1/21  3:00:28 V:0
+
+14: FF 00 00 00    0:00:01.212 HWM main 2020/ 1/21  3:00:29 C:12
+15: FE 01 0E 00    0:00:58.895 HWM main 2020/ 1/21  3:01:27 V:0
+
+16: FF 00 00 00    0:00:01.224 HWM main 2020/ 1/21  3:01:28 C:13
+
+17? FF 00 00 00    0:00:01.282 HWM main 2020/ 1/21  3:01:28 C:14
+18: FE 01 0E 00    0:01:10.144 HWM main 2020/ 1/21  3:02:37 V:0
+
+19: FF 00 00 00    0:00:01.230 HWM main 2020/ 1/21  3:02:38 C:15
+1A: FE 01 0E 00    0:03:19.529 HWM main 2020/ 1/21  3:05:56 V:0
+
+1B: FF 00 00 00    0:00:01.219 HWM main 2020/ 1/21  3:05:57 C:16
+1C: FE 01 0E 00    0:00:58.101 HWM main 2020/ 1/21  3:06:54 V:0
+
+1D: FF 00 00 00    0:00:01.288 HWM main 2020/ 1/21  3:06:55 C:17
+1E: FE 01 0E 00    0:01:08.036 HWM main 2020/ 1/21  3:08:02 V:0
+
+1F: FF 00 00 00    0:00:01.270 HWM main 2020/ 1/21  3:08:03 C:18
+00: FE 01 0E 00    0:01:17.721 HWM main 2020/ 2/29 22:44:32 V:0
+
+01: FF 00 00 00    0:00:03.674 HWM main 2020/ 2/29 22:44:39 C:19
+02: FE 01 0E 00    0:06:57.853 HWM main 2020/ 2/29 22:51:34 V:0
+
+03: FF 00 00 00    0:00:01.191 HWM main 2020/ 6/ 8 11:59:37 C:20
+04: FE 01 0E 00   10:01:05.537 HWM main 2020/ 6/ 8 22:00:41 V:0
+
+05: FF 00 00 00    0:00:01.272 HWM main 2020/ 6/ 8 22:01:34 C:21
+06: D3 00 00 00    0:00:18.373 HWM misc  Time Jump From 2020/ 6/ 8 22:00:00  to 2020/ 6/ 8 22:01:51 
+07* 10 00 00 00    0:00:27.370 HWM misc  Update Error. Time between updates: 18374 ms
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   08
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  0A
+timeDay:    2020/ 6/ 9 11:09:24 
+cycle_cnt:  21
+
+0A: FF 00 00 00    0:00:01.212 HWM main 2020/ 1/20 13:56:55 C:6
+
+0B? FF 00 00 00    0:00:01.231 HWM main 2020/ 1/20 13:57:23 C:7
+
+0C? FF 00 00 00    0:00:01.246 HWM main 2020/ 1/20 14:07:26 C:8
+0D: FE 01 0E 00    0:00:21.838 HWM main 2020/ 1/20 14:07:47 V:0
+
+0E: FF 00 00 00    0:00:01.249 HWM main 2020/ 1/20 14:07:47 C:9
+0F: FE 01 0E 00    0:58:12.444 HWM main 2020/ 1/20 15:05:58 V:0
+
+10: FF 00 00 00    0:00:01.234 HWM main 2020/ 1/20 18:34:21 C:10
+11: FE 01 0E 00    0:04:22.684 HWM main 2020/ 1/20 18:38:42 V:0
+
+12: FF 00 00 00    0:00:01.280 HWM main 2020/ 1/21  2:59:54 C:11
+13: FE 01 0E 00    0:00:35.497 HWM main 2020/ 1/21  3:00:28 V:0
+
+14: FF 00 00 00    0:00:01.212 HWM main 2020/ 1/21  3:00:29 C:12
+15: FE 01 0E 00    0:00:58.895 HWM main 2020/ 1/21  3:01:27 V:0
+
+16: FF 00 00 00    0:00:01.224 HWM main 2020/ 1/21  3:01:28 C:13
+
+17? FF 00 00 00    0:00:01.282 HWM main 2020/ 1/21  3:01:28 C:14
+18: FE 01 0E 00    0:01:10.144 HWM main 2020/ 1/21  3:02:37 V:0
+
+19: FF 00 00 00    0:00:01.230 HWM main 2020/ 1/21  3:02:38 C:15
+1A: FE 01 0E 00    0:03:19.529 HWM main 2020/ 1/21  3:05:56 V:0
+
+1B: FF 00 00 00    0:00:01.219 HWM main 2020/ 1/21  3:05:57 C:16
+1C: FE 01 0E 00    0:00:58.101 HWM main 2020/ 1/21  3:06:54 V:0
+
+1D: FF 00 00 00    0:00:01.288 HWM main 2020/ 1/21  3:06:55 C:17
+1E: FE 01 0E 00    0:01:08.036 HWM main 2020/ 1/21  3:08:02 V:0
+
+1F: FF 00 00 00    0:00:01.270 HWM main 2020/ 1/21  3:08:03 C:18
+00: FE 01 0E 00    0:01:17.721 HWM main 2020/ 2/29 22:44:32 V:0
+
+01: FF 00 00 00    0:00:03.674 HWM main 2020/ 2/29 22:44:39 C:19
+02: FE 01 0E 00    0:06:57.853 HWM main 2020/ 2/29 22:51:34 V:0
+
+03: FF 00 00 00    0:00:01.191 HWM main 2020/ 6/ 8 11:59:37 C:20
+04: FE 01 0E 00   10:01:05.537 HWM main 2020/ 6/ 8 22:00:41 V:0
+
+05: FF 00 00 00    0:00:01.272 HWM main 2020/ 6/ 8 22:01:34 C:21
+06: D3 00 00 00    0:00:18.373 HWM misc  Time Jump From 2020/ 6/ 8 22:00:00  to 2020/ 6/ 8 22:01:51 
+07* 10 00 00 00    0:00:27.370 HWM misc  Update Error. Time between updates: 18374 ms
+08: D4 00 00 00    0:58:27.393 HWM main  Hits Midnight: 2020/ 6/ 9  0:00:00 
+09* 10 00 00 00   13:07:50.401 HWM misc  Update Error. Time between updates: 47270400 ms
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   08
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  0B
+timeDay:    2020/ 6/ 9 11:09:24 
+cycle_cnt:  21
+
+0B: FF 00 00 00    0:00:01.231 HWM main 2020/ 1/20 13:57:23 C:7
+
+0C? FF 00 00 00    0:00:01.246 HWM main 2020/ 1/20 14:07:26 C:8
+0D: FE 01 0E 00    0:00:21.838 HWM main 2020/ 1/20 14:07:47 V:0
+
+0E: FF 00 00 00    0:00:01.249 HWM main 2020/ 1/20 14:07:47 C:9
+0F: FE 01 0E 00    0:58:12.444 HWM main 2020/ 1/20 15:05:58 V:0
+
+10: FF 00 00 00    0:00:01.234 HWM main 2020/ 1/20 18:34:21 C:10
+11: FE 01 0E 00    0:04:22.684 HWM main 2020/ 1/20 18:38:42 V:0
+
+12: FF 00 00 00    0:00:01.280 HWM main 2020/ 1/21  2:59:54 C:11
+13: FE 01 0E 00    0:00:35.497 HWM main 2020/ 1/21  3:00:28 V:0
+
+14: FF 00 00 00    0:00:01.212 HWM main 2020/ 1/21  3:00:29 C:12
+15: FE 01 0E 00    0:00:58.895 HWM main 2020/ 1/21  3:01:27 V:0
+
+16: FF 00 00 00    0:00:01.224 HWM main 2020/ 1/21  3:01:28 C:13
+
+17? FF 00 00 00    0:00:01.282 HWM main 2020/ 1/21  3:01:28 C:14
+18: FE 01 0E 00    0:01:10.144 HWM main 2020/ 1/21  3:02:37 V:0
+
+19: FF 00 00 00    0:00:01.230 HWM main 2020/ 1/21  3:02:38 C:15
+1A: FE 01 0E 00    0:03:19.529 HWM main 2020/ 1/21  3:05:56 V:0
+
+1B: FF 00 00 00    0:00:01.219 HWM main 2020/ 1/21  3:05:57 C:16
+1C: FE 01 0E 00    0:00:58.101 HWM main 2020/ 1/21  3:06:54 V:0
+
+1D: FF 00 00 00    0:00:01.288 HWM main 2020/ 1/21  3:06:55 C:17
+1E: FE 01 0E 00    0:01:08.036 HWM main 2020/ 1/21  3:08:02 V:0
+
+1F: FF 00 00 00    0:00:01.270 HWM main 2020/ 1/21  3:08:03 C:18
+00: FE 01 0E 00    0:01:17.721 HWM main 2020/ 2/29 22:44:32 V:0
+
+01: FF 00 00 00    0:00:03.674 HWM main 2020/ 2/29 22:44:39 C:19
+02: FE 01 0E 00    0:06:57.853 HWM main 2020/ 2/29 22:51:34 V:0
+
+03: FF 00 00 00    0:00:01.191 HWM main 2020/ 6/ 8 11:59:37 C:20
+04: FE 01 0E 00   10:01:05.537 HWM main 2020/ 6/ 8 22:00:41 V:0
+
+05: FF 00 00 00    0:00:01.272 HWM main 2020/ 6/ 8 22:01:34 C:21
+06: D3 00 00 00    0:00:18.373 HWM misc  Time Jump From 2020/ 6/ 8 22:00:00  to 2020/ 6/ 8 22:01:51 
+07* 10 00 00 00    0:00:27.370 HWM misc  Update Error. Time between updates: 18374 ms
+08: D4 00 00 00    0:58:27.393 HWM main  Hits Midnight: 2020/ 6/ 9  0:00:00 
+09* 10 00 00 00   13:07:50.401 HWM misc  Update Error. Time between updates: 47270400 ms
+0A* 10 00 00 00   13:07:50.420 HWM main  Update Error. Time between updates: 0 ms
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   08
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  0C
+timeDay:    2020/ 6/ 9 17:48:37 
+cycle_cnt:  21
+
+0C: FF 00 00 00    0:00:01.246 HWM main 2020/ 1/20 14:07:26 C:8
+0D: FE 01 0E 00    0:00:21.838 HWM main 2020/ 1/20 14:07:47 V:0
+
+0E: FF 00 00 00    0:00:01.249 HWM main 2020/ 1/20 14:07:47 C:9
+0F: FE 01 0E 00    0:58:12.444 HWM main 2020/ 1/20 15:05:58 V:0
+
+10: FF 00 00 00    0:00:01.234 HWM main 2020/ 1/20 18:34:21 C:10
+11: FE 01 0E 00    0:04:22.684 HWM main 2020/ 1/20 18:38:42 V:0
+
+12: FF 00 00 00    0:00:01.280 HWM main 2020/ 1/21  2:59:54 C:11
+13: FE 01 0E 00    0:00:35.497 HWM main 2020/ 1/21  3:00:28 V:0
+
+14: FF 00 00 00    0:00:01.212 HWM main 2020/ 1/21  3:00:29 C:12
+15: FE 01 0E 00    0:00:58.895 HWM main 2020/ 1/21  3:01:27 V:0
+
+16: FF 00 00 00    0:00:01.224 HWM main 2020/ 1/21  3:01:28 C:13
+
+17? FF 00 00 00    0:00:01.282 HWM main 2020/ 1/21  3:01:28 C:14
+18: FE 01 0E 00    0:01:10.144 HWM main 2020/ 1/21  3:02:37 V:0
+
+19: FF 00 00 00    0:00:01.230 HWM main 2020/ 1/21  3:02:38 C:15
+1A: FE 01 0E 00    0:03:19.529 HWM main 2020/ 1/21  3:05:56 V:0
+
+1B: FF 00 00 00    0:00:01.219 HWM main 2020/ 1/21  3:05:57 C:16
+1C: FE 01 0E 00    0:00:58.101 HWM main 2020/ 1/21  3:06:54 V:0
+
+1D: FF 00 00 00    0:00:01.288 HWM main 2020/ 1/21  3:06:55 C:17
+1E: FE 01 0E 00    0:01:08.036 HWM main 2020/ 1/21  3:08:02 V:0
+
+1F: FF 00 00 00    0:00:01.270 HWM main 2020/ 1/21  3:08:03 C:18
+00: FE 01 0E 00    0:01:17.721 HWM main 2020/ 2/29 22:44:32 V:0
+
+01: FF 00 00 00    0:00:03.674 HWM main 2020/ 2/29 22:44:39 C:19
+02: FE 01 0E 00    0:06:57.853 HWM main 2020/ 2/29 22:51:34 V:0
+
+03: FF 00 00 00    0:00:01.191 HWM main 2020/ 6/ 8 11:59:37 C:20
+04: FE 01 0E 00   10:01:05.537 HWM main 2020/ 6/ 8 22:00:41 V:0
+
+05: FF 00 00 00    0:00:01.272 HWM main 2020/ 6/ 8 22:01:34 C:21
+06: D3 00 00 00    0:00:18.373 HWM misc  Time Jump From 2020/ 6/ 8 22:00:00  to 2020/ 6/ 8 22:01:51 
+07* 10 00 00 00    0:00:27.370 HWM misc  Update Error. Time between updates: 18374 ms
+08: D4 00 00 00    0:58:27.393 HWM main  Hits Midnight: 2020/ 6/ 9  0:00:00 
+09* 10 00 00 00   13:07:50.401 HWM misc  Update Error. Time between updates: 47270400 ms
+0A* 10 00 00 00   13:07:50.420 HWM main  Update Error. Time between updates: 0 ms
+0B* 10 00 00 00   19:47:02.801 HWM misc  Update Error. Time between updates: 71222756 ms
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   08
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  0D
+timeDay:    2020/ 6/ 9 17:48:37 
+cycle_cnt:  21
+
+0D: FE 01 0E 00    0:00:21.838 HWM main 2020/ 1/20 14:07:47 V:0
+
+0E: FF 00 00 00    0:00:01.249 HWM main 2020/ 1/20 14:07:47 C:9
+0F: FE 01 0E 00    0:58:12.444 HWM main 2020/ 1/20 15:05:58 V:0
+
+10: FF 00 00 00    0:00:01.234 HWM main 2020/ 1/20 18:34:21 C:10
+11: FE 01 0E 00    0:04:22.684 HWM main 2020/ 1/20 18:38:42 V:0
+
+12: FF 00 00 00    0:00:01.280 HWM main 2020/ 1/21  2:59:54 C:11
+13: FE 01 0E 00    0:00:35.497 HWM main 2020/ 1/21  3:00:28 V:0
+
+14: FF 00 00 00    0:00:01.212 HWM main 2020/ 1/21  3:00:29 C:12
+15: FE 01 0E 00    0:00:58.895 HWM main 2020/ 1/21  3:01:27 V:0
+
+16: FF 00 00 00    0:00:01.224 HWM main 2020/ 1/21  3:01:28 C:13
+
+17? FF 00 00 00    0:00:01.282 HWM main 2020/ 1/21  3:01:28 C:14
+18: FE 01 0E 00    0:01:10.144 HWM main 2020/ 1/21  3:02:37 V:0
+
+19: FF 00 00 00    0:00:01.230 HWM main 2020/ 1/21  3:02:38 C:15
+1A: FE 01 0E 00    0:03:19.529 HWM main 2020/ 1/21  3:05:56 V:0
+
+1B: FF 00 00 00    0:00:01.219 HWM main 2020/ 1/21  3:05:57 C:16
+1C: FE 01 0E 00    0:00:58.101 HWM main 2020/ 1/21  3:06:54 V:0
+
+1D: FF 00 00 00    0:00:01.288 HWM main 2020/ 1/21  3:06:55 C:17
+1E: FE 01 0E 00    0:01:08.036 HWM main 2020/ 1/21  3:08:02 V:0
+
+1F: FF 00 00 00    0:00:01.270 HWM main 2020/ 1/21  3:08:03 C:18
+00: FE 01 0E 00    0:01:17.721 HWM main 2020/ 2/29 22:44:32 V:0
+
+01: FF 00 00 00    0:00:03.674 HWM main 2020/ 2/29 22:44:39 C:19
+02: FE 01 0E 00    0:06:57.853 HWM main 2020/ 2/29 22:51:34 V:0
+
+03: FF 00 00 00    0:00:01.191 HWM main 2020/ 6/ 8 11:59:37 C:20
+04: FE 01 0E 00   10:01:05.537 HWM main 2020/ 6/ 8 22:00:41 V:0
+
+05: FF 00 00 00    0:00:01.272 HWM main 2020/ 6/ 8 22:01:34 C:21
+06: D3 00 00 00    0:00:18.373 HWM misc  Time Jump From 2020/ 6/ 8 22:00:00  to 2020/ 6/ 8 22:01:51 
+07* 10 00 00 00    0:00:27.370 HWM misc  Update Error. Time between updates: 18374 ms
+08: D4 00 00 00    0:58:27.393 HWM main  Hits Midnight: 2020/ 6/ 9  0:00:00 
+09* 10 00 00 00   13:07:50.401 HWM misc  Update Error. Time between updates: 47270400 ms
+0A* 10 00 00 00   13:07:50.420 HWM main  Update Error. Time between updates: 0 ms
+0B* 10 00 00 00   19:47:02.801 HWM misc  Update Error. Time between updates: 71222756 ms
+0C* 10 00 00 00   19:47:02.849 HWM main  Update Error. Time between updates: 0 ms
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   08
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  0E
+timeDay:    2020/ 6/ 9 22:00:30 
+cycle_cnt:  21
+
+0E: FF 00 00 00    0:00:01.249 HWM main 2020/ 1/20 14:07:47 C:9
+0F: FE 01 0E 00    0:58:12.444 HWM main 2020/ 1/20 15:05:58 V:0
+
+10: FF 00 00 00    0:00:01.234 HWM main 2020/ 1/20 18:34:21 C:10
+11: FE 01 0E 00    0:04:22.684 HWM main 2020/ 1/20 18:38:42 V:0
+
+12: FF 00 00 00    0:00:01.280 HWM main 2020/ 1/21  2:59:54 C:11
+13: FE 01 0E 00    0:00:35.497 HWM main 2020/ 1/21  3:00:28 V:0
+
+14: FF 00 00 00    0:00:01.212 HWM main 2020/ 1/21  3:00:29 C:12
+15: FE 01 0E 00    0:00:58.895 HWM main 2020/ 1/21  3:01:27 V:0
+
+16: FF 00 00 00    0:00:01.224 HWM main 2020/ 1/21  3:01:28 C:13
+
+17? FF 00 00 00    0:00:01.282 HWM main 2020/ 1/21  3:01:28 C:14
+18: FE 01 0E 00    0:01:10.144 HWM main 2020/ 1/21  3:02:37 V:0
+
+19: FF 00 00 00    0:00:01.230 HWM main 2020/ 1/21  3:02:38 C:15
+1A: FE 01 0E 00    0:03:19.529 HWM main 2020/ 1/21  3:05:56 V:0
+
+1B: FF 00 00 00    0:00:01.219 HWM main 2020/ 1/21  3:05:57 C:16
+1C: FE 01 0E 00    0:00:58.101 HWM main 2020/ 1/21  3:06:54 V:0
+
+1D: FF 00 00 00    0:00:01.288 HWM main 2020/ 1/21  3:06:55 C:17
+1E: FE 01 0E 00    0:01:08.036 HWM main 2020/ 1/21  3:08:02 V:0
+
+1F: FF 00 00 00    0:00:01.270 HWM main 2020/ 1/21  3:08:03 C:18
+00: FE 01 0E 00    0:01:17.721 HWM main 2020/ 2/29 22:44:32 V:0
+
+01: FF 00 00 00    0:00:03.674 HWM main 2020/ 2/29 22:44:39 C:19
+02: FE 01 0E 00    0:06:57.853 HWM main 2020/ 2/29 22:51:34 V:0
+
+03: FF 00 00 00    0:00:01.191 HWM main 2020/ 6/ 8 11:59:37 C:20
+04: FE 01 0E 00   10:01:05.537 HWM main 2020/ 6/ 8 22:00:41 V:0
+
+05: FF 00 00 00    0:00:01.272 HWM main 2020/ 6/ 8 22:01:34 C:21
+06: D3 00 00 00    0:00:18.373 HWM misc  Time Jump From 2020/ 6/ 8 22:00:00  to 2020/ 6/ 8 22:01:51 
+07* 10 00 00 00    0:00:27.370 HWM misc  Update Error. Time between updates: 18374 ms
+08: D4 00 00 00    0:58:27.393 HWM main  Hits Midnight: 2020/ 6/ 9  0:00:00 
+09* 10 00 00 00   13:07:50.401 HWM misc  Update Error. Time between updates: 47270400 ms
+0A* 10 00 00 00   13:07:50.420 HWM main  Update Error. Time between updates: 0 ms
+0B* 10 00 00 00   19:47:02.801 HWM misc  Update Error. Time between updates: 71222756 ms
+0C* 10 00 00 00   19:47:02.849 HWM main  Update Error. Time between updates: 0 ms
+0D* 10 00 00 00   23:58:55.916 HWM misc  Update Error. Time between updates: 86320916 ms
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   08
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  0F
+timeDay:    2020/ 6/ 9 22:00:45 
+cycle_cnt:  21
+
+0F: FE 01 0E 00    0:58:12.444 HWM main 2020/ 1/20 15:05:58 V:0
+
+10: FF 00 00 00    0:00:01.234 HWM main 2020/ 1/20 18:34:21 C:10
+11: FE 01 0E 00    0:04:22.684 HWM main 2020/ 1/20 18:38:42 V:0
+
+12: FF 00 00 00    0:00:01.280 HWM main 2020/ 1/21  2:59:54 C:11
+13: FE 01 0E 00    0:00:35.497 HWM main 2020/ 1/21  3:00:28 V:0
+
+14: FF 00 00 00    0:00:01.212 HWM main 2020/ 1/21  3:00:29 C:12
+15: FE 01 0E 00    0:00:58.895 HWM main 2020/ 1/21  3:01:27 V:0
+
+16: FF 00 00 00    0:00:01.224 HWM main 2020/ 1/21  3:01:28 C:13
+
+17? FF 00 00 00    0:00:01.282 HWM main 2020/ 1/21  3:01:28 C:14
+18: FE 01 0E 00    0:01:10.144 HWM main 2020/ 1/21  3:02:37 V:0
+
+19: FF 00 00 00    0:00:01.230 HWM main 2020/ 1/21  3:02:38 C:15
+1A: FE 01 0E 00    0:03:19.529 HWM main 2020/ 1/21  3:05:56 V:0
+
+1B: FF 00 00 00    0:00:01.219 HWM main 2020/ 1/21  3:05:57 C:16
+1C: FE 01 0E 00    0:00:58.101 HWM main 2020/ 1/21  3:06:54 V:0
+
+1D: FF 00 00 00    0:00:01.288 HWM main 2020/ 1/21  3:06:55 C:17
+1E: FE 01 0E 00    0:01:08.036 HWM main 2020/ 1/21  3:08:02 V:0
+
+1F: FF 00 00 00    0:00:01.270 HWM main 2020/ 1/21  3:08:03 C:18
+00: FE 01 0E 00    0:01:17.721 HWM main 2020/ 2/29 22:44:32 V:0
+
+01: FF 00 00 00    0:00:03.674 HWM main 2020/ 2/29 22:44:39 C:19
+02: FE 01 0E 00    0:06:57.853 HWM main 2020/ 2/29 22:51:34 V:0
+
+03: FF 00 00 00    0:00:01.191 HWM main 2020/ 6/ 8 11:59:37 C:20
+04: FE 01 0E 00   10:01:05.537 HWM main 2020/ 6/ 8 22:00:41 V:0
+
+05: FF 00 00 00    0:00:01.272 HWM main 2020/ 6/ 8 22:01:34 C:21
+06: D3 00 00 00    0:00:18.373 HWM misc  Time Jump From 2020/ 6/ 8 22:00:00  to 2020/ 6/ 8 22:01:51 
+07* 10 00 00 00    0:00:27.370 HWM misc  Update Error. Time between updates: 18374 ms
+08: D4 00 00 00    0:58:27.393 HWM main  Hits Midnight: 2020/ 6/ 9  0:00:00 
+09* 10 00 00 00   13:07:50.401 HWM misc  Update Error. Time between updates: 47270400 ms
+0A* 10 00 00 00   13:07:50.420 HWM main  Update Error. Time between updates: 0 ms
+0B* 10 00 00 00   19:47:02.801 HWM misc  Update Error. Time between updates: 71222756 ms
+0C* 10 00 00 00   19:47:02.849 HWM main  Update Error. Time between updates: 0 ms
+0D* 10 00 00 00   23:58:55.916 HWM misc  Update Error. Time between updates: 86320916 ms
+0E* 10 00 00 00   23:59:10.916 HWM misc  Update Error. Time between updates: 86335919 ms
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   08
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  10
+timeDay:    2020/ 6/ 9 22:01:00 
+cycle_cnt:  21
+
+10: FF 00 00 00    0:00:01.234 HWM main 2020/ 1/20 18:34:21 C:10
+11: FE 01 0E 00    0:04:22.684 HWM main 2020/ 1/20 18:38:42 V:0
+
+12: FF 00 00 00    0:00:01.280 HWM main 2020/ 1/21  2:59:54 C:11
+13: FE 01 0E 00    0:00:35.497 HWM main 2020/ 1/21  3:00:28 V:0
+
+14: FF 00 00 00    0:00:01.212 HWM main 2020/ 1/21  3:00:29 C:12
+15: FE 01 0E 00    0:00:58.895 HWM main 2020/ 1/21  3:01:27 V:0
+
+16: FF 00 00 00    0:00:01.224 HWM main 2020/ 1/21  3:01:28 C:13
+
+17? FF 00 00 00    0:00:01.282 HWM main 2020/ 1/21  3:01:28 C:14
+18: FE 01 0E 00    0:01:10.144 HWM main 2020/ 1/21  3:02:37 V:0
+
+19: FF 00 00 00    0:00:01.230 HWM main 2020/ 1/21  3:02:38 C:15
+1A: FE 01 0E 00    0:03:19.529 HWM main 2020/ 1/21  3:05:56 V:0
+
+1B: FF 00 00 00    0:00:01.219 HWM main 2020/ 1/21  3:05:57 C:16
+1C: FE 01 0E 00    0:00:58.101 HWM main 2020/ 1/21  3:06:54 V:0
+
+1D: FF 00 00 00    0:00:01.288 HWM main 2020/ 1/21  3:06:55 C:17
+1E: FE 01 0E 00    0:01:08.036 HWM main 2020/ 1/21  3:08:02 V:0
+
+1F: FF 00 00 00    0:00:01.270 HWM main 2020/ 1/21  3:08:03 C:18
+00: FE 01 0E 00    0:01:17.721 HWM main 2020/ 2/29 22:44:32 V:0
+
+01: FF 00 00 00    0:00:03.674 HWM main 2020/ 2/29 22:44:39 C:19
+02: FE 01 0E 00    0:06:57.853 HWM main 2020/ 2/29 22:51:34 V:0
+
+03: FF 00 00 00    0:00:01.191 HWM main 2020/ 6/ 8 11:59:37 C:20
+04: FE 01 0E 00   10:01:05.537 HWM main 2020/ 6/ 8 22:00:41 V:0
+
+05: FF 00 00 00    0:00:01.272 HWM main 2020/ 6/ 8 22:01:34 C:21
+06: D3 00 00 00    0:00:18.373 HWM misc  Time Jump From 2020/ 6/ 8 22:00:00  to 2020/ 6/ 8 22:01:51 
+07* 10 00 00 00    0:00:27.370 HWM misc  Update Error. Time between updates: 18374 ms
+08: D4 00 00 00    0:58:27.393 HWM main  Hits Midnight: 2020/ 6/ 9  0:00:00 
+09* 10 00 00 00   13:07:50.401 HWM misc  Update Error. Time between updates: 47270400 ms
+0A* 10 00 00 00   13:07:50.420 HWM main  Update Error. Time between updates: 0 ms
+0B* 10 00 00 00   19:47:02.801 HWM misc  Update Error. Time between updates: 71222756 ms
+0C* 10 00 00 00   19:47:02.849 HWM main  Update Error. Time between updates: 0 ms
+0D* 10 00 00 00   23:58:55.916 HWM misc  Update Error. Time between updates: 86320916 ms
+0E* 10 00 00 00   23:59:10.916 HWM misc  Update Error. Time between updates: 86335919 ms
+0F* 10 00 00 00   23:59:25.917 HWM misc  Update Error. Time between updates: 86350919 ms
+

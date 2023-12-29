@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <pcToLineNum>
+        <entry filename="source/DataShellDelegate.mc" id="3" lineNum="14" pc="268435456" symbol="initialize"/>
+        <entry filename="source/DataShellDelegate.mc" id="3" lineNum="16" pc="268435460" symbol="initialize"/>
+        <entry filename="source/DataShellDelegate.mc" id="3" lineNum="17" pc="268435478" symbol="initialize"/>
+        <entry filename="source/DataShellDelegate.mc" id="4" lineNum="20" pc="268435489" symbol="onSelect"/>
+        <entry filename="source/DataShellDelegate.mc" id="4" lineNum="22" pc="268435493" symbol="onSelect"/>
+        <entry filename="source/DataShellView.mc" id="6" lineNum="34" pc="268435512" symbol="initialize"/>
+        <entry filename="source/DataShellView.mc" id="6" lineNum="36" pc="268435516" symbol="initialize"/>
+        <entry filename="source/DataShellView.mc" id="7" lineNum="40" pc="268435535" symbol="onLayout"/>
+        <entry filename="source/DataShellView.mc" id="7" lineNum="42" pc="268435539" symbol="onLayout"/>
+        <entry filename="source/DataShellView.mc" id="7" lineNum="43" pc="268435558" symbol="onLayout"/>
+        <entry filename="source/DataShellView.mc" id="7" lineNum="45" pc="268435577" symbol="onLayout"/>
+        <entry filename="source/DataShellView.mc" id="7" lineNum="46" pc="268435599" symbol="onLayout"/>
+        <entry filename="source/DataShellView.mc" id="7" lineNum="48" pc="268435621" symbol="onLayout"/>
+        <entry filename="source/DataShellView.mc" id="7" lineNum="49" pc="268435643" symbol="onLayout"/>
+        <entry filename="source/DataShellView.mc" id="7" lineNum="51" pc="268435665" symbol="onLayout"/>
+        <entry filename="source/DataShellView.mc" id="7" lineNum="52" pc="268435681" symbol="onLayout"/>
+        <entry filename="source/DataShellView.mc" id="7" lineNum="55" pc="268435697" symbol="onLayout"/>
+        <entry filename="source/DataShellView.mc" id="7" lineNum="56" pc="268435731" symbol="onLayout"/>
+        <entry filename="source/DataShellView.mc" id="8" lineNum="60" pc="268435773" symbol="onShow"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="65" pc="268435778" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="67" pc="268435782" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="68" pc="268435804" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="70" pc="268435815" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="73" pc="268435825" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="74" pc="268435844" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="76" pc="268435864" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="79" pc="268435880" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="80" pc="268435916" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="83" pc="268435928" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="84" pc="268435964" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="86" pc="268436018" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="87" pc="268436054" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="90" pc="268436108" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="91" pc="268436144" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="94" pc="268436207" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="95" pc="268436243" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="97" pc="268436256" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="99" pc="268436256" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="100" pc="268436287" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="102" pc="268436347" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="103" pc="268436383" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="9" lineNum="107" pc="268436449" symbol="onUpdate"/>
+        <entry filename="source/DataShellView.mc" id="10" lineNum="111" pc="268436513" symbol="timerCallback"/>
+        <entry filename="source/DataShellView.mc" id="10" lineNum="113" pc="268436517" symbol="timerCallback"/>
+        <entry filename="source/DataShellView.mc" id="11" lineNum="116" pc="268436534" symbol="setHeartRate"/>
+        <entry filename="source/DataShellView.mc" id="11" lineNum="118" pc="268436538" symbol="setHeartRate"/>
+        <entry filename="source/DataShellView.mc" id="11" lineNum="119" pc="268436548" symbol="setHeartRate"/>
+        <entry filename="source/DataShellView.mc" id="11" lineNum="121" pc="268436561" symbol="setHeartRate"/>
+        <entry filename="source/DataShellView.mc" id="11" lineNum="124" pc="268436586" symbol="setHeartRate"/>
+        <entry filename="source/DataShellView.mc" id="12" lineNum="127" pc="268436603" symbol="markEvent"/>
+        <entry filename="source/DataShellView.mc" id="13" lineNum="133" pc="268436608" symbol="onHide"/>
+        <entry filename="source/DataShellApp.mc" id="15" lineNum="20" pc="268436613" symbol="initialize"/>
+        <entry filename="source/DataShellApp.mc" id="15" lineNum="22" pc="268436617" symbol="initialize"/>
+        <entry filename="source/DataShellApp.mc" id="16" lineNum="26" pc="268436636" symbol="onStart"/>
+        <entry filename="source/DataShellApp.mc" id="16" lineNum="28" pc="268436640" symbol="onStart"/>
+        <entry filename="source/DataShellApp.mc" id="16" lineNum="29" pc="268436682" symbol="onStart"/>
+        <entry filename="source/DataShellApp.mc" id="17" lineNum="33" pc="268436715" symbol="onStop"/>
+        <entry filename="source/DataShellApp.mc" id="17" lineNum="36" pc="268436719" symbol="onStop"/>
+        <entry filename="source/DataShellApp.mc" id="18" lineNum="39" pc="268436736" symbol="onSensor"/>
+        <entry filename="source/DataShellApp.mc" id="18" lineNum="43" pc="268436740" symbol="onSensor"/>
+        <entry filename="source/DataShellApp.mc" id="19" lineNum="71" pc="268436767" symbol="getInitialView"/>
+        <entry filename="source/DataShellApp.mc" id="19" lineNum="73" pc="268436771" symbol="getInitialView"/>
+        <entry filename="source/DataShellApp.mc" id="19" lineNum="74" pc="268436801" symbol="getInitialView"/>
+        <entry filename="source/DataShellApp.mc" id="19" lineNum="75" pc="268436833" symbol="getInitialView"/>
+        <entry filename="source/DataShellApp.mc" id="20" lineNum="79" pc="268436867" symbol="getIterator"/>
+        <entry filename="source/DataShellApp.mc" id="20" lineNum="82" pc="268436871" symbol="getIterator"/>
+        <entry filename="source/DataShellApp.mc" id="20" lineNum="84" pc="268436914" symbol="getIterator"/>
+        <entry filename="source/DataShellApp.mc" id="20" lineNum="87" pc="268436983" symbol="getIterator"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry field="true" id="12" symbol="oneHour"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="8389781" module="true" symbol="SensorHistory"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="16" symbol="parentView"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388643" module="true" symbol="Sensor"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="9" object="true" symbol="DataShellDelegate"/>
+        <entry field="true" id="13" symbol="mainView"/>
+        <entry id="14" method="true" symbol="onSensor"/>
+        <entry field="true" id="28" symbol="heartInfo"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="8389808" symbol="period"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry field="true" id="20" symbol="AppName"/>
+        <entry id="8389809" symbol="order"/>
+        <entry field="true" id="19" symbol="LauncherIcon"/>
+        <entry id="31" method="true" symbol="markEvent"/>
+        <entry id="8388646" module="true" object="true" symbol="Timer"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="15" method="true" symbol="getIterator"/>
+        <entry id="10" object="true" symbol="DataShellView"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="8389067" symbol="height"/>
+        <entry id="8389702" method="true" symbol="getHeartRateHistory"/>
+        <entry field="true" id="27" symbol="yy"/>
+        <entry field="true" id="26" symbol="xx"/>
+        <entry id="18" module="true" symbol="Layouts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry field="true" id="25" symbol="oy"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="24" symbol="ox"/>
+        <entry id="29" method="true" symbol="timerCallback"/>
+        <entry id="11" object="true" symbol="DataShellApp"/>
+        <entry field="true" id="23" symbol="dataTimer"/>
+        <entry field="true" id="8389066" symbol="width"/>
+        <entry id="17" module="true" symbol="Menus"/>
+        <entry id="30" method="true" symbol="setHeartRate"/>
+        <entry field="true" id="8390079" symbol="y"/>
+        <entry field="true" id="8390078" symbol="x"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="22" symbol="s"/>
+        <entry field="true" id="21" symbol="r"/>
+    </symbolTable>
+    <localVars>
+        <entry endPc="268435489" name="view" stackId="1" startPc="268435456"/>
+        <entry endPc="268435773" name="dc" stackId="1" startPc="268435535"/>
+        <entry endPc="268436446" name="string" stackId="3" startPc="268436256"/>
+        <entry endPc="268436512" name="ds" stackId="2" startPc="268435782"/>
+        <entry endPc="268436513" name="dc" stackId="1" startPc="268435778"/>
+        <entry endPc="268436603" name="heartRate" stackId="1" startPc="268436534"/>
+        <entry endPc="268436715" name="state" stackId="1" startPc="268436636"/>
+        <entry endPc="268436736" name="state" stackId="1" startPc="268436715"/>
+        <entry endPc="268436767" name="sensorInfo" stackId="1" startPc="268436736"/>
+        <entry endPc="268436866" name="viewDelegate" stackId="1" startPc="268436771"/>
+    </localVars>
+    <annotations/>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="DataShellDelegate">
+            <param id="view"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="DataShellDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DataShellView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="DataShellView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="DataShellView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="DataShellView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="timerCallback" parent="DataShellView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setHeartRate" parent="DataShellView">
+            <param id="heartRate"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="markEvent" parent="DataShellView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="DataShellView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="DataShellApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="DataShellApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="DataShellApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSensor" parent="DataShellApp">
+            <param id="sensorInfo"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="DataShellApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getIterator" parent="DataShellApp">
+            <documentation/>
+        </functionEntry>
+    </functions>
+    <dataEntryOffsetMappings>
+        <dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry offset="182" parentId="globals" symbolId="DataShellApp" type="class"/>
+        <dataEntry offset="285" parentId="globals" symbolId="DataShellDelegate" type="class"/>
+        <dataEntry offset="348" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry offset="427" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry offset="466" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry offset="497" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry offset="528" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry offset="559" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry offset="590" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry offset="629" parentId="globals" symbolId="DataShellView" type="class"/>
+    </dataEntryOffsetMappings>
+</debugInfo>

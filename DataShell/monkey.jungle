@@ -1,0 +1,6 @@
+project.manifest = manifest.xml
+#base.projectPath = .
+base.sourcePath = source
+base.resourcePath = resources
+#project.sourcePath = source/DataShellDelegate.mc;source/DataShellView.mc;source/DataShellApp.mc
+#project.resourcePath = resources/strings.xml;resources/bitmaps.xml

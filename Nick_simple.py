@@ -20,7 +20,8 @@ from matplotlib.dates import DateFormatter, DayLocator, HourLocator, drange
 def cgmparse(filename, start, end):
     times = []
     value = []
-
+    #time_value = ()
+    
     with open(filename) as cgmfile:
         reader = csv.reader(cgmfile, delimiter=',')
         lines = 0
@@ -38,11 +39,14 @@ def cgmparse(filename, start, end):
                   # print(f'\t{row[2]} {row[3]} {row[4]}')
                     # We have two CGM colums.
                     # Here 'type' asserts which we can use.
-                    type = int(row[3])
-                    if type < 1:
+                    type = int(row[3]) # type 0 readings occur after every 15 mins automatically. type 1 readings are manual scans. lets include both and sort them into time order
+                    
+                    if type <= 1: 
                     # For now consider only type 1 readings,
                     # otherwise we need to sort carefully.
                   # if type < 2:
+                        #new_element = (reading, float(row[4 + type]) )
+                        #time_value = time_value + (new_element,) 
                         times.append(reading);
                         value.append(float(row[4 + type]));
             else:
@@ -52,15 +56,23 @@ def cgmparse(filename, start, end):
 
         print(f'Processed {lines} lines.')
 
-    print()
 
-  # print()
-  # print("times")
-  # print(times)
+    #time_value = np.array(time_value) 
+    #times = list(time_value[:,0])
+    #value = list(time_value[:,1])
+    
+    #print(times)
+    #print(len(times))
+    #print(value)
 
-  # print()
-  # print("value")
-  # print(value)
+
+    # print()
+    # print("times")
+    # print(times)
+
+    # print()
+    # print("value")
+    # print(value)
 
     cgm = []
 
@@ -77,6 +89,7 @@ def cgmparse(filename, start, end):
         cgm.attrs['title'] = filename
         cgm.attrs['color'] = 'orange'
 
+        cgm = cgm.sort_values(by='timestamp', ascending=True) # now sort the datatimes so all are in correct order
         print(filename)
         print(cgm)
 
